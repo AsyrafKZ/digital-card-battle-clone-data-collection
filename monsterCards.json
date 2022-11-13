@@ -16,7 +16,9 @@
     "x_effect": "{{button|c}} Counter",
     "support": "Add number of DP Cards in DP Slot x100 to own Attack Power.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/2/24/Imperialdramon_000_%28DDCB%29.jpg/revision/latest?cb=20160330215248",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Omnimon I",
@@ -35,7 +37,9 @@
     "x_effect": "{{button|x}} Counter",
     "support": "Changes own Specialty to Fire. Boost own Attack Power +100.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/b/b7/Omnimon_I_001_%28DDCB%29.jpg/revision/latest?cb=20160330211644",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "WarGreymon",
@@ -54,7 +58,9 @@
     "x_effect": "Ice Foe x3",
     "support": "Add number of Cards in Hand x100 to own Attack Power.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/7/72/WarGreymon_002_%28DDCB%29.jpg/revision/latest?cb=20160330213145",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Phoenixmon",
@@ -73,7 +79,9 @@
     "x_effect": "Eat-Up HP",
     "support": "Digimon KO'd in battle revives with 500 HP. Battle is still lost.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/6/6f/Phoenixmon_003_%28DDCB%29.jpg/revision/latest?cb=20160330213254",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "2",
+    "support_speed": "1"
   },
   {
     "name": "Paildramon",
@@ -92,7 +100,9 @@
     "x_effect": "{{button|x}} to 0",
     "support": "If own Specialty is Fire, boost own Attack Power +300.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/c/c7/Paildramon_004_%28DDCB%29.jpg/revision/latest?cb=20160330213328",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Gigadramon",
@@ -111,7 +121,9 @@
     "x_effect": "None",
     "support": "None",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/9/9f/Gigadramon_005_%28DDCB%29.jpg/revision/latest?cb=20160330213623",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "0",
+    "support_speed": "0"
   },
   {
     "name": "RealMetalGreymon",
@@ -130,7 +142,9 @@
     "x_effect": "{{button|c}} Counter",
     "support": "Boost own Attack Power +300.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/5/58/RealMetalGreymon_006_%28DDCB%29.jpg/revision/latest?cb=20160330213652",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Garudamon",
@@ -149,7 +163,9 @@
     "x_effect": "1st Attack",
     "support": "If own Attack is {{button|c}}, attack first.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/b/b3/Garudamon_007_%28DDCB%29.jpg/revision/latest?cb=20160330213718",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "2",
+    "support_speed": "1"
   },
   {
     "name": "MasterTyrannomon",
@@ -168,7 +184,9 @@
     "x_effect": "Ice Foe x3",
     "support": "If own Specialty is Fire, own Attack Power is doubled.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/b/bb/MasterTyrannomon_008_%28DDCB%29.jpg/revision/latest?cb=20160330213829",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "MetalGreymon",
@@ -187,7 +205,9 @@
     "x_effect": "{{button|c}} Counter",
     "support": "If own Level is U, boost own Attack Power +500.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/f/f1/MetalGreymon_009_%28DDCB%29.jpg/revision/latest?cb=20160330213854",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Vermilimon",
@@ -206,7 +226,9 @@
     "x_effect": "{{button|t}} Counter",
     "support": "None",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/6/64/Vermilimon_010_%28DDCB%29.jpg/revision/latest?cb=20160330213920",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "0"
   },
   {
     "name": "Meteormon",
@@ -225,7 +247,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "Lower opponent's {{button|c}} Attack Power to 0.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/6/60/Meteormon_011_%28DDCB%29.jpg/revision/latest?cb=20160330214026",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "ExVeemon",
@@ -244,7 +268,9 @@
     "x_effect": "{{button|c}} Counter",
     "support": "If own Level is A, boost own Attack Power +300.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/d/dc/ExVeemon_012_%28DDCB%29.jpg/revision/latest?cb=20160330214051",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Aquilamon",
@@ -263,7 +289,9 @@
     "x_effect": "1st Attack",
     "support": "If own attack is {{button|t}}, attack first.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/3/3f/Aquilamon_013_%28DDCB%29.jpg/revision/latest?cb=20160330214114",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "2",
+    "support_speed": "2"
   },
   {
     "name": "Greymon",
@@ -282,7 +310,9 @@
     "x_effect": "{{button|c}} Counter",
     "support": "If own Level is C, boost own Attack Power +300.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/c/cf/Greymon_014_%28DDCB%29.jpg/revision/latest?cb=20160330214136",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Apemon",
@@ -301,7 +331,9 @@
     "x_effect": "{{button|c}} Counter",
     "support": "Change own Specialty to Fire. Boost own Attack Power +200.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/6/64/Apemon_015_%28DDCB%29.jpg/revision/latest?cb=20160330214235",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Tyrannomon",
@@ -320,7 +352,9 @@
     "x_effect": "Nature Foe x3",
     "support": "None",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/b/bc/Tyrannomon_016_%28DDCB%29.jpg/revision/latest?cb=20160330214425",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "0"
   },
   {
     "name": "Monochromon",
@@ -339,7 +373,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "None",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/e/e4/Monochromon_017_%28DDCB%29.jpg/revision/latest?cb=20160330214450",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "0"
   },
   {
     "name": "Meramon",
@@ -358,7 +394,9 @@
     "x_effect": "Ice Foe x3",
     "support": "If opponent's Specialty is Ice, own Attack Power is tripled.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/1/11/Meramon_018_%28DDCB%29.jpg/revision/latest?cb=20160330214534",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Centarumon",
@@ -377,7 +415,9 @@
     "x_effect": "Ice Foe x3",
     "support": "Use {{button|c}} and Boost own {{button|c}} Attack Power +400.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/a/a3/Centarumon_019_%28DDCB%29.jpg/revision/latest?cb=20160330214557",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Birdramon",
@@ -396,7 +436,9 @@
     "x_effect": "1st Attack",
     "support": "Attack first.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/3/3a/Birdramon_020_%28DDCB%29.jpg/revision/latest?cb=20160330214623",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "2",
+    "support_speed": "2"
   },
   {
     "name": "Tankmon",
@@ -415,7 +457,9 @@
     "x_effect": "1st Attack",
     "support": "Own HP become 10. Boost own Attack Power +500.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/2/25/Tankmon_021_%28DDCB%29.jpg/revision/latest?cb=20160330214644",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "2",
+    "support_speed": "2"
   },
   {
     "name": "RedVegiemon",
@@ -434,7 +478,9 @@
     "x_effect": "None",
     "support": "Discard all own DP Cards in DP Slot, boost own Attack Power +300.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/b/b4/RedVegiemon_022_%28DDCB%29.jpg/revision/latest?cb=20160330214706",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "0",
+    "support_speed": "2"
   },
   {
     "name": "Piddomon",
@@ -453,7 +499,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "Own {{button|c}} Attack Power becomes same as own HP.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/3/3e/Piddomon_023_%28DDCB%29.jpg/revision/latest?cb=20160330214728",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Akatorimon",
@@ -472,7 +520,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "Boost own Attack Power +200.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/1/13/Akatorimon_024_%28DDCB%29.jpg/revision/latest?cb=20160330214823",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "BomberNanimon",
@@ -491,7 +541,9 @@
     "x_effect": "Crash",
     "support": "If both Levels are C, boost own Attack Power +400.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/b/bf/BomberNanimon_025_%28DDCB%29.jpg/revision/latest?cb=20160330214845",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Flarerizamon",
@@ -510,7 +562,9 @@
     "x_effect": "None",
     "support": "Change own Specialty to Fire.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/7/71/Flarerizamon_026_%28DDCB%29.jpg/revision/latest?cb=20160330214909",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "0",
+    "support_speed": "2"
   },
   {
     "name": "Agumon",
@@ -529,7 +583,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "Boost own {{button|c}} Attack Power +300.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/d/d0/Agumon_027_%28DDCB%29.jpg/revision/latest?cb=20160330214932",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Solarmon",
@@ -548,7 +604,9 @@
     "x_effect": "Crash",
     "support": "None",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/8/8a/Solarmon_028_%28DDCB%29.jpg/revision/latest?cb=20160330214953",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "0"
   },
   {
     "name": "Biyomon",
@@ -567,7 +625,9 @@
     "x_effect": "1st Attack",
     "support": "Boost own Attack Power +200.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/d/d9/Biyomon_029_%28DDCB%29.jpg/revision/latest?cb=20160330215018",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "2",
+    "support_speed": "1"
   },
   {
     "name": "Muchomon",
@@ -586,7 +646,9 @@
     "x_effect": "{{button|x}} Counter",
     "support": "Boost own {{button|t}} Attack Power +300.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/3/39/Muchomon_030_%28DDCB%29.jpg/revision/latest?cb=20160330215042",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Candlemon",
@@ -605,7 +667,9 @@
     "x_effect": "{{button|c}} Counter",
     "support": "Boost own {{button|x}} Attack Power +200.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/b/ba/Candlemon_031_%28DDCB%29.jpg/revision/latest?cb=20160330215104",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "D-Otamamon",
@@ -624,7 +688,9 @@
     "x_effect": "Ice Foe x3.",
     "support": "If opponent's Specialty is Ice, own Attack Power is doubled.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/e/e4/D-Otamamon_032_%28DDCB%29.jpg/revision/latest?cb=20160330215132",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Goburimon",
@@ -643,7 +709,9 @@
     "x_effect": "None",
     "support": "None",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/8/8b/Goburimon_033_%28DDCB%29.jpg/revision/latest?cb=20160330215157",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "0",
+    "support_speed": "0"
   },
   {
     "name": "Vikemon",
@@ -662,7 +730,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "None",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/c/c6/Vikemon_034_%28DDCB%29.jpg/revision/latest?cb=20160401012427",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "0"
   },
   {
     "name": "Omnimon II",
@@ -681,7 +751,9 @@
     "x_effect": "{{button|x}} Counter",
     "support": "Change own Specialty to Ice. Recover own HP by +100.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/f/fa/Omnimon_II_035_%28DDCB%29.jpg/revision/latest?cb=20160401012539",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "MetalSeadramon",
@@ -700,7 +772,9 @@
     "x_effect": "Fire Foe x3",
     "support": "If own Specialty is Ice, opponent's Support Effect is voided.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/7/77/MetalSeadramon_036_%28DDCB%29.jpg/revision/latest?cb=20160401013604",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "3"
   },
   {
     "name": "MetalGarurumon",
@@ -719,7 +793,9 @@
     "x_effect": "Fire Foe x3",
     "support": "If own Cards in Hand 3 or more, opponent's Attack Power becomes 0.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/2/24/MetalGarurumon_037_%28DDCB%29.jpg/revision/latest?cb=20160401013636",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "MarineAngemon",
@@ -738,7 +814,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "Recover own HP by +200.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/7/79/MarineAngemon_038_%28DDCB%29.jpg/revision/latest?cb=20160401013724",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "WereGarurumon",
@@ -757,7 +835,9 @@
     "x_effect": "{{button|t}} Counter",
     "support": "Add number of DP Cards in DP Slot x100 to own HP.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/4/47/WereGarurumon_039_%28DDCB%29.jpg/revision/latest?cb=20160401013752",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Zudomon",
@@ -776,7 +856,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "If own Specialty is Ice, opponent's Attack Power is halved.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/f/ff/Zudomon_040_%28DDCB%29.jpg/revision/latest?cb=20160401013823",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Panjyamon",
@@ -795,7 +877,9 @@
     "x_effect": "{{button|t}} Counter",
     "support": "{{button|t}} Counterattack. Attack second.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/5/53/Panjyamon_041_%28DDCB%29.jpg/revision/latest?cb=20160401013844",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "MegaSeadramon",
@@ -814,7 +898,9 @@
     "x_effect": "{{button|c}} Counter",
     "support": "{{button|c}} Counterattack. Attack second.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/7/75/MegaSeadramon_042_%28DDCB%29.jpg/revision/latest?cb=20160401014145",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "WaruSeadramon",
@@ -833,7 +919,9 @@
     "x_effect": "Jamming",
     "support": "Opponent's Support Effect is voided.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/2/25/WaruSeadramon_043_%28DDCB%29.jpg/revision/latest?cb=20160401014514",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "3",
+    "support_speed": "3"
   },
   {
     "name": "Brachiomon",
@@ -852,7 +940,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "Lower opponent's {{button|c}} Attack Power to 0.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/c/cd/Brachiomon_044_%28DDCB%29.jpg/revision/latest?cb=20160401014540",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "BlueMeramon",
@@ -871,7 +961,9 @@
     "x_effect": "{{button|x}} to 0",
     "support": "Lower opponent's {{button|x}} Attack Power to 0.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/4/4f/BlueMeramon_045_%28DDCB%29.jpg/revision/latest?cb=20160401014603",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Garurumon",
@@ -890,7 +982,9 @@
     "x_effect": "{{button|c}} Counter",
     "support": "Opponent uses {{button|c}}.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/0/06/Garurumon_046_%28DDCB%29.jpg/revision/latest?cb=20160401014624",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Ikkakumon",
@@ -909,7 +1003,9 @@
     "x_effect": "Fire Foe x3",
     "support": "If opponent's Specialty is Fire, own Attack Power is tripled.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/c/ce/Ikkakumon_047_%28DDCB%29.jpg/revision/latest?cb=20160401014651",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Dolphmon",
@@ -928,7 +1024,9 @@
     "x_effect": "{{button|x}} to 0",
     "support": "If own Attack is not {{button|c}}, recover own HP by +300.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/5/51/Dolphmon_048_%28DDCB%29.jpg/revision/latest?cb=20160401015044",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Whamon",
@@ -947,7 +1045,9 @@
     "x_effect": "{{button|t}} to 0",
     "support": "Own HP become 700.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/2/23/Whamon_049_%28DDCB%29.jpg/revision/latest?cb=20160401015107",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Seadramon",
@@ -966,7 +1066,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "Opponent's Attack Power is halved.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/3/35/Seadramon_050_%28DDCB%29.jpg/revision/latest?cb=20160401015130",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Gesomon",
@@ -985,7 +1087,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "None",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/d/d3/Gesomon_051_%28DDCB%29.jpg/revision/latest?cb=20160401015201",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "0"
   },
   {
     "name": "Frigimon",
@@ -1004,7 +1108,9 @@
     "x_effect": "Fire Foe x3",
     "support": "Recover own HP by +200.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/0/0a/Frigimon_052_%28DDCB%29.jpg/revision/latest?cb=20160401015225",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Gekomon",
@@ -1023,7 +1129,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "Change opponent's Specialty to Ice.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/2/2e/Gekomon_053_%28DDCB%29.jpg/revision/latest?cb=20160401015244",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Coelamon",
@@ -1042,7 +1150,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "Lower opponent's {{button|c}} Attack Power to 0.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/d/df/Coelamon_054_%28DDCB%29.jpg/revision/latest?cb=20160401015312",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Mojyamon",
@@ -1061,7 +1171,9 @@
     "x_effect": "None",
     "support": "Recover own HP by +200.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/e/ea/Mojyamon_055_%28DDCB%29.jpg/revision/latest?cb=20160401015337",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "0",
+    "support_speed": "2"
   },
   {
     "name": "Shellmon",
@@ -1080,7 +1192,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "If opponent used {{button|c}}, change it to {{button|x}}.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/b/be/Shellmon_056_%28DDCB%29.jpg/revision/latest?cb=20160401015357",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Sorcerimon",
@@ -1099,7 +1213,9 @@
     "x_effect": "Jamming",
     "support": "Change own Specialty to Ice.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/e/e5/Sorcerimon_057_%28DDCB%29.jpg/revision/latest?cb=20160401015418",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "3",
+    "support_speed": "2"
   },
   {
     "name": "IceDevimon",
@@ -1118,7 +1234,9 @@
     "x_effect": "Fire Foe x3",
     "support": "If opponent's Specialty is fire, own Attack Power is tripled.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/3/3a/IceDevimon_058_%28DDCB%29.jpg/revision/latest?cb=20160401015458",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Hyogamon",
@@ -1137,7 +1255,9 @@
     "x_effect": "{{button|c}} Counter",
     "support": "None",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/0/08/Hyogamon_059_%28DDCB%29.jpg/revision/latest?cb=20160401015517",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "0"
   },
   {
     "name": "Icemon",
@@ -1156,7 +1276,9 @@
     "x_effect": "{{button|x}} Counter",
     "support": "None",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/3/3f/Icemon_060_%28DDCB%29.jpg/revision/latest?cb=20160401015535",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "0"
   },
   {
     "name": "Gomamon",
@@ -1175,7 +1297,9 @@
     "x_effect": "{{button|t}} to 0",
     "support": "Lower opponent's {{button|t}} Attack Power to 0.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/9/91/Gomamon_061_%28DDCB%29.jpg/revision/latest?cb=20160401015556",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Gabumon",
@@ -1194,7 +1318,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "None",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/6/6d/Gabumon_062_%28DDCB%29.jpg/revision/latest?cb=20160401015617",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "0"
   },
   {
     "name": "Betamon",
@@ -1213,7 +1339,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "If own HP are less then 200, reduce opponent's Attack Power to 0.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/e/ea/Betamon_063_%28DDCB%29.jpg/revision/latest?cb=20160401015654",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Penguinmon",
@@ -1232,7 +1360,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "If opponent's Specialty is Fire, reduce opponent's Attack Power to 0.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/d/d9/Penguinmon_064_%28DDCB%29.jpg/revision/latest?cb=20160401015717",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Gizamon",
@@ -1251,7 +1381,9 @@
     "x_effect": "Fire Foe x3",
     "support": "If opponent's Specialty is Fire, own Attack Power is doubled.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/0/04/Gizamon_065_%28DDCB%29.jpg/revision/latest?cb=20160401015736",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Otamamon",
@@ -1270,7 +1402,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "Reduce opponent's {{button|c}} Attack Power to 0.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/b/bb/Otamamon_066_%28DDCB%29.jpg/revision/latest?cb=20160401015804",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "SnowAgumon",
@@ -1289,7 +1423,9 @@
     "x_effect": "{{button|x}} to 0",
     "support": "Reduce opponent's {{button|x}} Attack Power to 0.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/8/8e/SnowAgumon_067_%28DDCB%29.jpg/revision/latest?cb=20160401015834",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "SnowGoburimon",
@@ -1308,7 +1444,9 @@
     "x_effect": "None",
     "support": "None",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/7/78/SnowGoburimon_068_%28DDCB%29.jpg/revision/latest?cb=20160401015901",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "0",
+    "support_speed": "0"
   },
   {
     "name": "Valkyrimon",
@@ -1327,7 +1465,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "Opponent uses O.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/9/94/Valkyrimon_069_%28DDCB%29.jpg/revision/latest?cb=20160401020548",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Seraphimon",
@@ -1346,7 +1486,9 @@
     "x_effect": "Dark Foe x3",
     "support": "If opponent's Specialty is Darkness, own Attack Power is +200 & HP +200.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/4/41/Seraphimon_070_%28DDCB%29.jpg/revision/latest?cb=20160401020609",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Magnadramon",
@@ -1365,7 +1507,9 @@
     "x_effect": "{{button|x}} to 0",
     "support": "{{button|x}} Counterattack. Attack second.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/8/8a/Magnadramon_071_%28DDCB%29.jpg/revision/latest?cb=20160401020653",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "AeroVeedramon",
@@ -1384,7 +1528,9 @@
     "x_effect": "1st Attack",
     "support": "If own level is U, own Attack Power is doubled.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/c/cb/AeroVeedramon_072_%28DDCB%29.jpg/revision/latest?cb=20160401020714",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "2",
+    "support_speed": "1"
   },
   {
     "name": "Rosemon",
@@ -1403,7 +1549,9 @@
     "x_effect": "Eat-up HP",
     "support": "If opponent's HP are 1000+, own attack becomes \"Eat-up HP.\"",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/9/9c/Rosemon_073_%28DDCB%29.jpg/revision/latest?cb=20160401020737",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "2",
+    "support_speed": "2"
   },
   {
     "name": "HerculesKabuterimon",
@@ -1422,7 +1570,9 @@
     "x_effect": "1st Attack",
     "support": "None",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/b/b5/HerculesKabuterimon_074_%28DDCB%29.jpg/revision/latest?cb=20160401020759",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "2",
+    "support_speed": "0"
   },
   {
     "name": "MagnaAngemon",
@@ -1441,7 +1591,9 @@
     "x_effect": "Darkness Foe x3",
     "support": "If opponent's Specialty is Darkness, boost own Attack Power +500.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/4/4e/MagnaAngemon_075_%28DDCB%29.jpg/revision/latest?cb=20160401020820",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Silphymon",
@@ -1460,7 +1612,9 @@
     "x_effect": "{{button|t}} to 0",
     "support": "If opponent's Specialty is not Nature, attack second.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/c/c1/Silphymon_076_%28DDCB%29.jpg/revision/latest?cb=20160401020901",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Angewomon",
@@ -1479,7 +1633,9 @@
     "x_effect": "Darkness Foe x3",
     "support": "If opponent's Specialty is Darkness, recover own HP by +500.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/1/1a/Angewomon_077_%28DDCB%29.jpg/revision/latest?cb=20160401020920",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Lillymon",
@@ -1498,7 +1654,9 @@
     "x_effect": "Eat-up HP",
     "support": "Recover own HP by +200.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/c/c3/Lillymon_078_%28DDCB%29.jpg/revision/latest?cb=20160401020944",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "2",
+    "support_speed": "2"
   },
   {
     "name": "MegaKabuterimon",
@@ -1517,7 +1675,9 @@
     "x_effect": "{{button|c}} Counter",
     "support": "None",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/c/c6/MegaKabuterimon_079_%28DDCB%29.jpg/revision/latest?cb=20160401021011",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "0"
   },
   {
     "name": "Piximon",
@@ -1536,7 +1696,9 @@
     "x_effect": "None",
     "support": "Opponent's Support Effect is voided. Own Attack Power is halved.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/1/15/Piximon_080_%28DDCB%29.jpg/revision/latest?cb=20160401021033",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "0",
+    "support_speed": "3"
   },
   {
     "name": "Veedramon",
@@ -1555,7 +1717,9 @@
     "x_effect": "1st Attack",
     "support": "If own level is U, own Attack Power is doubled.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/2/23/Veedramon_081_%28DDCB%29.jpg/revision/latest?cb=20160401021054",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "2",
+    "support_speed": "1"
   },
   {
     "name": "Angemon",
@@ -1574,7 +1738,9 @@
     "x_effect": "Darkness Foe x3",
     "support": "If opponent's Specialty is Darkness, own Attack Power is tripled.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/5/5a/Angemon_082_%28DDCB%29.jpg/revision/latest?cb=20160401021123",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "R-Gatomon",
@@ -1593,7 +1759,9 @@
     "x_effect": "{{button|x}} to 0",
     "support": "If own HP are less than 500, boost own Attack Power +300.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/a/a7/R-Gatomon_083_%28DDCB%29.jpg/revision/latest?cb=20160401021212",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Togemon",
@@ -1612,7 +1780,9 @@
     "x_effect": "{{button|t}} to 0",
     "support": "Boost own Attack Power +100.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/c/c3/Togemon_084_%28DDCB%29.jpg/revision/latest?cb=20160401021310",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Leomon",
@@ -1631,7 +1801,9 @@
     "x_effect": "None",
     "support": "If own level is lower, boost own Attack Power +500.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/c/c3/Leomon_085_%28DDCB%29.jpg/revision/latest?cb=20160401021355",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "0",
+    "support_speed": "1"
   },
   {
     "name": "Kabuterimon",
@@ -1650,7 +1822,9 @@
     "x_effect": "{{button|c}} Counter",
     "support": "None",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/4/46/Kabuterimon_086_%28DDCB%29.jpg/revision/latest?cb=20160401021415",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "0"
   },
   {
     "name": "Airdramon",
@@ -1669,7 +1843,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "Recover own HP by +100. Boost own Attack Power by +100.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/8/88/Airdramon_087_%28DDCB%29.jpg/revision/latest?cb=20160401021437",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Unimon",
@@ -1688,7 +1864,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "If opponent's Specialty is Darkness, lower opponent's Attack Power to 0.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/1/16/Unimon_088_%28DDCB%29.jpg/revision/latest?cb=20160401021453",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Ninjamon",
@@ -1707,7 +1885,9 @@
     "x_effect": "1st Attack",
     "support": "Attack first.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/0/04/Ninjamon_089_%28DDCB%29.jpg/revision/latest?cb=20160401021513",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "2",
+    "support_speed": "2"
   },
   {
     "name": "Kuwagamon",
@@ -1726,7 +1906,9 @@
     "x_effect": "{{button|t}} Counter",
     "support": "None",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/a/a5/Kuwagamon_090_%28DDCB%29.jpg/revision/latest?cb=20160401021536",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "0"
   },
   {
     "name": "Drimogemon",
@@ -1745,7 +1927,9 @@
     "x_effect": "None",
     "support": "Boost own Attack Power +200.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/9/96/Drimogemon_091_%28DDCB%29.jpg/revision/latest?cb=20160401021600",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "0",
+    "support_speed": "1"
   },
   {
     "name": "Vegiemon",
@@ -1764,7 +1948,9 @@
     "x_effect": "Jamming",
     "support": "Changes opponent's Specialty to Nature.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/8/8f/Vegiemon_092_%28DDCB%29.jpg/revision/latest?cb=20160401021621",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "3",
+    "support_speed": "2"
   },
   {
     "name": "Kokatorimon",
@@ -1783,7 +1969,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "Lower opponent's Attack Power to 0. Opponent's HP are doubled.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/7/7e/Kokatorimon_093_%28DDCB%29.jpg/revision/latest?cb=20160401021641",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Yanmamon",
@@ -1802,7 +1990,9 @@
     "x_effect": "1st Attack",
     "support": "None",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/b/b1/Yanmamon_094_%28DDCB%29.jpg/revision/latest?cb=20160401021700",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "2",
+    "support_speed": "0"
   },
   {
     "name": "J-Mojyamon",
@@ -1821,7 +2011,9 @@
     "x_effect": "None",
     "support": "If own Level is R, boost own Attack Power +300.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/6/65/J-Mojyamon_095_%28DDCB%29.jpg/revision/latest?cb=20160401021727",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "0",
+    "support_speed": "1"
   },
   {
     "name": "MoriShellmon",
@@ -1840,7 +2032,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "If opponent's Specialty is Darkness, lower opponent's Attack Power -200.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/5/55/MoriShellmon_096_%28DDCB%29.jpg/revision/latest?cb=20160401021749",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Tentomon",
@@ -1859,7 +2053,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "None",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/9/91/Tentomon_097_%28DDCB%29.jpg/revision/latest?cb=20160401021809",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "0"
   },
   {
     "name": "Palmon",
@@ -1878,7 +2074,9 @@
     "x_effect": "Eat-up HP",
     "support": "None",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/6/61/Palmon_098_%28DDCB%29.jpg/revision/latest?cb=20160401021839",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "2",
+    "support_speed": "0"
   },
   {
     "name": "Salamon",
@@ -1897,7 +2095,9 @@
     "x_effect": "{{button|t}} Counter",
     "support": "Changes own Specialty to Nature. Draw 1 Card.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/e/eb/Salamon_099_%28DDCB%29.jpg/revision/latest?cb=20160401022035",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Elecmon",
@@ -1916,7 +2116,9 @@
     "x_effect": "Ice Foe x3",
     "support": "If opponent's Specialty is Ice, boost own Attack Power +300.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/6/6e/Elecmon_100_%28DDCB%29.jpg/revision/latest?cb=20160401022053",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Gotsumon",
@@ -1935,7 +2137,9 @@
     "x_effect": "{{button|x}} to 0",
     "support": "If own HP are more than opponent's HP, own Attack Power is doubled.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/f/f1/Gotsumon_101_%28DDCB%29.jpg/revision/latest?cb=20160401022112",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Kunemon",
@@ -1954,7 +2158,9 @@
     "x_effect": "Jamming",
     "support": "Lower both Attack Powers -200.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/3/3b/Kunemon_102_%28DDCB%29.jpg/revision/latest?cb=20160401022139",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "3",
+    "support_speed": "1"
   },
   {
     "name": "Apokarimon",
@@ -1973,7 +2179,9 @@
     "x_effect": "Crash",
     "support": "Own HP are halved. Change own Specialty to Darkness.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/0/09/Apokarimon_103_%28DDCB%29.jpg/revision/latest?cb=20160331021124",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "GranKuwagamon",
@@ -1992,7 +2200,9 @@
     "x_effect": "None",
     "support": "Discard 7 Cards from own Online Deck. Opponent's HP are halved.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/5/5b/GranKuwagamon_104_%28DDCB%29.jpg/revision/latest?cb=20160331021150",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "0",
+    "support_speed": "2"
   },
   {
     "name": "Diaboromon",
@@ -2011,7 +2221,9 @@
     "x_effect": "Crash",
     "support": "Own HP become 10. Changes opponent's Specialty to Darkness.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/9/90/Diaboromon_105_%28DDCB%29.jpg/revision/latest?cb=20160331021348",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "VenomMyotismon",
@@ -2030,7 +2242,9 @@
     "x_effect": "Nature Foe x3",
     "support": "None",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/5/5a/VenomMyotismon_106_%28DDCB%29.jpg/revision/latest?cb=20160331021413",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "0"
   },
   {
     "name": "Piedmon",
@@ -2049,7 +2263,9 @@
     "x_effect": "Jamming",
     "support": "Both players discard all Cards in Hands.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/b/b3/Piedmon_107_%28DDCB%29.jpg/revision/latest?cb=20160331021436",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "3",
+    "support_speed": "2"
   },
   {
     "name": "Machinedramon",
@@ -2068,7 +2284,9 @@
     "x_effect": "Crash",
     "support": "None",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/5/5e/Machinedramon_108_%28DDCB%29.jpg/revision/latest?cb=20160331021457",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "0"
   },
   {
     "name": "Infermon",
@@ -2087,7 +2305,9 @@
     "x_effect": "Jamming",
     "support": "Discard 5 Cards from own Online Deck. Boost own Attack Power +400.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/a/aa/Infermon_109_%28DDCB%29.jpg/revision/latest?cb=20160331021517",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "3",
+    "support_speed": "2"
   },
   {
     "name": "LadyDevimon",
@@ -2106,7 +2326,9 @@
     "x_effect": "Eat-up HP",
     "support": "Both players boost Attack Power +200.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/3/3a/LadyDevimon_110_%28DDCB%29.jpg/revision/latest?cb=20160331021556",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "2",
+    "support_speed": "1"
   },
   {
     "name": "Myotismon",
@@ -2125,7 +2347,9 @@
     "x_effect": "Eat-up HP",
     "support": "Digimon KO'd in battle revives with 500 HP. Battle is still lost.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/b/ba/Myotismon_111_%28DDCB%29.jpg/revision/latest?cb=20160331021620",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "2",
+    "support_speed": "1"
   },
   {
     "name": "Megadramon",
@@ -2144,7 +2368,9 @@
     "x_effect": "1st Attack",
     "support": "Both players' HP are halved.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/e/eb/Megadramon_112_%28DDCB%29.jpg/revision/latest?cb=20160331021641",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "2",
+    "support_speed": "2"
   },
   {
     "name": "SkullGreymon",
@@ -2163,7 +2389,9 @@
     "x_effect": "Nature Foe x3",
     "support": "If opponent's Specialty is Nature, opponent discards all Cards.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/b/bb/SkullGreymon_113_%28DDCB%29.jpg/revision/latest?cb=20160331021704",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Phantomon",
@@ -2182,7 +2410,9 @@
     "x_effect": "Eat-up HP",
     "support": "Discard 7 Cards from own Online Deck, own Attack is \"Eat-up HP.\"",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/9/97/Phantomon_114_%28DDCB%29.jpg/revision/latest?cb=20160331021733",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "2",
+    "support_speed": "2"
   },
   {
     "name": "WaruMonzaemon",
@@ -2201,7 +2431,9 @@
     "x_effect": "Jamming",
     "support": "Own HP become 10. Own Attack Power is doubled.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/d/d7/WaruMonzaemon_115_%28DDCB%29.jpg/revision/latest?cb=20160331022334",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "3",
+    "support_speed": "2"
   },
   {
     "name": "Andromon",
@@ -2220,7 +2452,9 @@
     "x_effect": "None",
     "support": "Own HP are halved. Boost own Attack Power +400.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/6/66/Andromon_116_%28DDCB%29.jpg/revision/latest?cb=20160331022356",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "0",
+    "support_speed": "2"
   },
   {
     "name": "Stingmon",
@@ -2239,7 +2473,9 @@
     "x_effect": "Eat-up HP",
     "support": "Discard 1 DP Card from own DP Slot. Boost own Attack Power +200.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/9/9e/Stingmon_117_%28DDCB%29.jpg/revision/latest?cb=20160331022422",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "2",
+    "support_speed": "2"
   },
   {
     "name": "Wizardmon",
@@ -2258,7 +2494,9 @@
     "x_effect": "Jamming",
     "support": "Discard all Cards in own Hand, then draw 2 Cards.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/3/3a/Wizardmon_118_%28DDCB%29.jpg/revision/latest?cb=20160331022445",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "3",
+    "support_speed": "2"
   },
   {
     "name": "Devidramon",
@@ -2277,7 +2515,9 @@
     "x_effect": "None",
     "support": "Own Attack becomes {{button|t}}.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/3/3a/Devidramon_119_%28DDCB%29.jpg/revision/latest?cb=20160331022507",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "0",
+    "support_speed": "2"
   },
   {
     "name": "Devimon",
@@ -2296,7 +2536,9 @@
     "x_effect": "Nature Foe x3",
     "support": "If opponent's Specialty is Nature, own Attack Power is tripled.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/1/14/Devimon_120_%28DDCB%29.jpg/revision/latest?cb=20160331022534",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Tuskmon",
@@ -2315,7 +2557,9 @@
     "x_effect": "None",
     "support": "Own Attack becomes {{button|x}}.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/d/de/Tuskmon_121_%28DDCB%29.jpg/revision/latest?cb=20160331022601",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "0",
+    "support_speed": "2"
   },
   {
     "name": "Ogremon",
@@ -2334,7 +2578,9 @@
     "x_effect": "{{button|t}} Counter",
     "support": "Discard Cards in own DP Slot and multiply Attack Power by number of discards.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/b/be/Ogremon_122_%28DDCB%29.jpg/revision/latest?cb=20160331022620",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Bakemon",
@@ -2353,7 +2599,9 @@
     "x_effect": "Eat-up HP",
     "support": "Change own Specialty to Darkness.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/f/f2/Bakemon_123_%28DDCB%29.jpg/revision/latest?cb=20160331022652",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "2",
+    "support_speed": "2"
   },
   {
     "name": "Guardromon",
@@ -2372,7 +2620,9 @@
     "x_effect": "Crash",
     "support": "Own HP are halved. Boost own Attack Power +300.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/c/c8/Guardromon_124_%28DDCB%29.jpg/revision/latest?cb=20160331022712",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Tekkamon",
@@ -2391,7 +2641,9 @@
     "x_effect": "Crash",
     "support": "Both players boost Attack Power +300.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/c/cc/Tekkamon_125_%28DDCB%29.jpg/revision/latest?cb=20160331022735",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Gururumon",
@@ -2410,7 +2662,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "Both players use {{button|t}}.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/3/3c/Gururumon_126_%28DDCB%29.jpg/revision/latest?cb=20160331022757",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Soulmon",
@@ -2429,7 +2683,9 @@
     "x_effect": "Eat-up HP",
     "support": "Discard 1 Card in DP Slot. change opponent's Specialty to Darkness.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/9/98/Soulmon_127_%28DDCB%29.jpg/revision/latest?cb=20160331022828",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "2",
+    "support_speed": "2"
   },
   {
     "name": "Fugamon",
@@ -2448,7 +2704,9 @@
     "x_effect": "None",
     "support": "Own Attack becomes {{button|c}}.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/d/dd/Fugamon_128_%28DDCB%29.jpg/revision/latest?cb=20160331022849",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "0",
+    "support_speed": "2"
   },
   {
     "name": "Saberdramon",
@@ -2467,7 +2725,9 @@
     "x_effect": "1st Attack",
     "support": "Both players use {{button|x}}.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/1/11/Saberdramon_129_%28DDCB%29.jpg/revision/latest?cb=20160331022912",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "2",
+    "support_speed": "2"
   },
   {
     "name": "Darkrizamon",
@@ -2486,7 +2746,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "Both players use {{button|c}}.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/a/a8/Darkrizamon_130_%28DDCB%29.jpg/revision/latest?cb=20160331022936",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Zassomon",
@@ -2505,7 +2767,9 @@
     "x_effect": "None",
     "support": "Opponent's Attack Power become 300.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/2/21/Zassomon_131_%28DDCB%29.jpg/revision/latest?cb=20160331023001",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "0",
+    "support_speed": "1"
   },
   {
     "name": "DemiDevimon",
@@ -2524,7 +2788,9 @@
     "x_effect": "Nature Foe x3",
     "support": "If opponent's Specialty is Nature, own Attack Power is doubled.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/a/a9/DemiDevimon_132_%28DDCB%29.jpg/revision/latest?cb=20160331023148",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "BKGatomon",
@@ -2543,7 +2809,9 @@
     "x_effect": "{{button|x}} to 0",
     "support": "If opponent's Level is A, opponent's HP are halved.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/6/64/BKGatomon_133_%28DDCB%29.jpg/revision/latest?cb=20160331023209",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Kokuwamon",
@@ -2562,7 +2830,9 @@
     "x_effect": "{{button|t}} to 0",
     "support": "Reduce own Attack Power by -100. Recover own HP by +200.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/a/a2/Kokuwamon_134_%28DDCB%29.jpg/revision/latest?cb=20160331023231",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Tsukaimon",
@@ -2581,7 +2851,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "Boost own {{button|x}} Attack Power +200. {{button|c}} & {{button|t}} Attack Power are 0.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/1/1a/Tsukaimon_135_%28DDCB%29.jpg/revision/latest?cb=20160331023301",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Dokunemon",
@@ -2600,7 +2872,9 @@
     "x_effect": "Rare Foe x3",
     "support": "If opponent's Specialty is Rare, opponent's HP become 100.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/a/a8/Dokunemon_136_%28DDCB%29.jpg/revision/latest?cb=20160331023350",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Aruraumon",
@@ -2619,7 +2893,9 @@
     "x_effect": "Eat-up HP",
     "support": "Own Attack becomes \"Eat-up HP.\" Own Attack Power is halved.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/1/11/Aruraumon_137_%28DDCB%29.jpg/revision/latest?cb=20160331023409",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "2",
+    "support_speed": "2"
   },
   {
     "name": "Sharmamon",
@@ -2638,7 +2914,9 @@
     "x_effect": "Jamming",
     "support": "Opponent's HP are halved. opponent's Attack Power is doubled.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/e/e4/Sharmamon_138_%28DDCB%29.jpg/revision/latest?cb=20160331023430",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "3",
+    "support_speed": "2"
   },
   {
     "name": "Puppetmon",
@@ -2657,7 +2935,9 @@
     "x_effect": "Jamming",
     "support": "Discard 1 of opponent's Cards in DP Slot. Draw 1 Card.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/f/f2/Puppetmon_139_%28DDCB%29.jpg/revision/latest?cb=20160401023126",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "3",
+    "support_speed": "2"
   },
   {
     "name": "SuperStarmon",
@@ -2676,7 +2956,9 @@
     "x_effect": "Rare Foe x3",
     "support": "If opponent's Specialty is Rare, lower opponent's Attack Power to 0.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/f/f4/SuperStarmon_140_%28DDCB%29.jpg/revision/latest?cb=20160401023147",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "MetalEtemon",
@@ -2695,7 +2977,9 @@
     "x_effect": "{{button|c}} Counter",
     "support": "{{button|c}} Counterattack. Attack second.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/d/d8/MetalEtemon_141_%28DDCB%29.jpg/revision/latest?cb=20160401023211",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Shakkoumon",
@@ -2714,7 +2998,9 @@
     "x_effect": "Jamming",
     "support": "Recover own HP by +100. Boost own {{button|x}} Attack Power by +100.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/a/a8/Shakkoumon_142_%28DDCB%29.jpg/revision/latest?cb=20160401023234",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "3",
+    "support_speed": "2"
   },
   {
     "name": "Jijimon",
@@ -2733,7 +3019,9 @@
     "x_effect": "{{button|t}} to 0",
     "support": "If opponent's Specialty is Darkness, lower opponent's Attack Power to 0.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/c/c2/Jijimon_143_%28DDCB%29.jpg/revision/latest?cb=20160401023252",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Digitamamon",
@@ -2752,7 +3040,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "Swap own Specialty with opponent's Specialty.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/b/bf/Digitamamon_144_%28DDCB%29.jpg/revision/latest?cb=20160401023322",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Vademon",
@@ -2771,7 +3061,9 @@
     "x_effect": "Jamming",
     "support": "Opponent's Specialty becomes the same as own Specialty.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/9/9c/Vademon_145_%28DDCB%29.jpg/revision/latest?cb=20160401023353",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "3",
+    "support_speed": "2"
   },
   {
     "name": "Giromon",
@@ -2790,7 +3082,9 @@
     "x_effect": "Crash",
     "support": "Opponent uses {{button|x}}.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/2/28/Giromon_146_%28DDCB%29.jpg/revision/latest?cb=20160401033150",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Monzaemon",
@@ -2809,7 +3103,9 @@
     "x_effect": "Darkness Foe x3",
     "support": "Recover own HP by +200. Boost own Attack Power by +100.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/9/93/Monzaemon_147_%28DDCB%29.jpg/revision/latest?cb=20160401033244",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "MetalMamemon",
@@ -2828,7 +3124,9 @@
     "x_effect": "1st Attack",
     "support": "None",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/d/d3/MetalMamemon_148_%28DDCB%29.jpg/revision/latest?cb=20160401033306",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "2",
+    "support_speed": "0"
   },
   {
     "name": "Mamemon",
@@ -2847,7 +3145,9 @@
     "x_effect": "{{button|c}} Counter",
     "support": "None",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/9/92/Mamemon_149_%28DDCB%29.jpg/revision/latest?cb=20160401033344",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "0"
   },
   {
     "name": "Etemon",
@@ -2866,7 +3166,9 @@
     "x_effect": "Jamming",
     "support": "Lower opponent's {{button|x}} Attack Power to 0.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/c/c9/Etemon_150_%28DDCB%29.jpg/revision/latest?cb=20160401033408",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "3",
+    "support_speed": "1"
   },
   {
     "name": "Ankylomon",
@@ -2885,7 +3187,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "If opponent has more than 2 Cards in DP Slot, his Attack Power is 0.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/f/ff/Ankylomon_151_%28DDCB%29.jpg/revision/latest?cb=20160401033733",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Starmon",
@@ -2904,7 +3208,9 @@
     "x_effect": "Darkness Foe x3",
     "support": "If opponent's Specialty is Darkness, opponent's Support Effect is voided.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/e/e0/Starmon_152_%28DDCB%29.jpg/revision/latest?cb=20160401033752",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "3"
   },
   {
     "name": "Thundermon",
@@ -2923,7 +3229,9 @@
     "x_effect": "{{button|x}} Counter",
     "support": "If opponent used {{button|x}}, discard all Cards in opponent's Hand.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/6/6d/Thundermon_153_%28DDCB%29.jpg/revision/latest?cb=20160401033909",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "PlatinumSukamon",
@@ -2942,7 +3250,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "Move the top Card from Offline Pile to Online Deck.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/a/a7/PlatinumSukamon_154_%28DDCB%29.jpg/revision/latest?cb=20160401033935",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "ShellNumemon",
@@ -2961,7 +3271,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "Discard opponent's top DP Card shown in DP Slot.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/0/05/ShellNumemon_155_%28DDCB%29.jpg/revision/latest?cb=20160401033957",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Nanimon",
@@ -2980,7 +3292,9 @@
     "x_effect": "{{button|x}} Counter",
     "support": "Return all Cards in own Hand to Online Deck and Shuffle.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/6/67/Nanimon_156_%28DDCB%29.jpg/revision/latest?cb=20160401034021",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Numemon",
@@ -2999,7 +3313,9 @@
     "x_effect": "{{button|x}} to 0",
     "support": "Discard opponent's 2 top DP Cards in his DP Slot.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/0/06/Numemon_157_%28DDCB%29.jpg/revision/latest?cb=20160401034038",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Sukamon",
@@ -3018,7 +3334,9 @@
     "x_effect": "Jamming",
     "support": "Discard 1 Card from opponent's Hand at random.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/d/d8/Sukamon_158_%28DDCB%29.jpg/revision/latest?cb=20160401034102",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "3",
+    "support_speed": "2"
   },
   {
     "name": "Rockmon",
@@ -3037,7 +3355,9 @@
     "x_effect": "Rare Foe x3",
     "support": "Discard 3 Cards from opponent's Online Deck.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/3/36/Rockmon_159_%28DDCB%29.jpg/revision/latest?cb=20160401034304",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Geremon",
@@ -3056,7 +3376,9 @@
     "x_effect": "None",
     "support": "Discard all Cards in DP Slot. Foe discards same number of DP Cards.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/8/85/Geremon_160_%28DDCB%29.jpg/revision/latest?cb=20160401034338",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "0",
+    "support_speed": "2"
   },
   {
     "name": "NiseDrimogemon",
@@ -3075,7 +3397,9 @@
     "x_effect": "Rare Foe x3",
     "support": "Opponent uses {{button|t}}.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/3/36/NiseDrimogemon_161_%28DDCB%29.jpg/revision/latest?cb=20160401034359",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "ShimaUnimon",
@@ -3094,7 +3418,9 @@
     "x_effect": "{{button|c}} Counter",
     "support": "None",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/5/51/ShimaUnimon_162_%28DDCB%29.jpg/revision/latest?cb=20160401034424",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "0"
   },
   {
     "name": "MudFrigimon",
@@ -3113,7 +3439,9 @@
     "x_effect": "None",
     "support": "None",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/9/9a/MudFrigimon_163_%28DDCB%29.jpg/revision/latest?cb=20160401034449",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "0",
+    "support_speed": "0"
   },
   {
     "name": "SandYanmamon",
@@ -3132,7 +3460,9 @@
     "x_effect": "1st Attack",
     "support": "Opponent uses {{button|c}}. Lower opponent's Attack Power -100.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/2/2e/SandYanmamon_164_%28DDCB%29.jpg/revision/latest?cb=20160401034516",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "2",
+    "support_speed": "2"
   },
   {
     "name": "L-ToyAgumon",
@@ -3151,7 +3481,9 @@
     "x_effect": "None",
     "support": "If 1 or less Cards left in own Hand, opponent's Attack Power goes to 0.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/1/14/L-ToyAgumon_165_%28DDCB%29.jpg/revision/latest?cb=20110924081229",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "0",
+    "support_speed": "1"
   },
   {
     "name": "Hagurumon",
@@ -3170,7 +3502,9 @@
     "x_effect": "Crash",
     "support": "Discard all Cards in DP Slot. Recover HP, mumber of discards x100.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/f/f0/Hagurumon_166_%28DDCB%29.jpg/revision/latest?cb=20160401034537",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "ToyAgumon",
@@ -3189,7 +3523,9 @@
     "x_effect": "{{button|t}} Counter",
     "support": "Discard 1 Card at random from own Hand. HP of both Players are 200.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/c/c1/ToyAgumon_167_%28DDCB%29.jpg/revision/latest?cb=20160401034605",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "ClearAgumon",
@@ -3208,7 +3544,9 @@
     "x_effect": "Jamming",
     "support": "Opponent's Support Effect is voided.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/4/4b/ClearAgumon_168_%28DDCB%29.jpg/revision/latest?cb=20160401034634",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "3",
+    "support_speed": "3"
   },
   {
     "name": "Vi-Elecmon",
@@ -3227,7 +3565,9 @@
     "x_effect": "Rare Foe x3",
     "support": "None",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/5/57/Vi-Elecmon_169_%28DDCB%29.jpg/revision/latest?cb=20160401034703",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "0"
   },
   {
     "name": "Psychemon",
@@ -3246,7 +3586,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "Own HP become same as opponent's.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/c/ce/Psychemon_170_%28DDCB%29.jpg/revision/latest?cb=20160401034740",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "ModokiBetamon",
@@ -3265,7 +3607,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "Opponent's HP become same as own. Own Attack Power becomes 0.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/4/43/ModokiBetamon_171_%28DDCB%29.jpg/revision/latest?cb=20160401034836",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Flamedramon",
@@ -3284,7 +3628,9 @@
     "x_effect": "{{button|c}} Counter",
     "support": "Boost own Attack Power +100. Draw 1 Card.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/4/4d/Flamedramon_172_%28DDCB%29.jpg/revision/latest?cb=20160401173354",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Magnamon",
@@ -3303,7 +3649,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "Boost own Attack Power by +100. Draw 1 Card.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/6/66/Magnamon_173_%28DDCB%29.jpg/revision/latest?cb=20160401173433",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Baronmon",
@@ -3322,7 +3670,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "If foe's Specialty is Darkness, own Attack Power is Doubled. Draw 1 Card.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/7/7b/Baronmon_174_%28DDCB%29.jpg/revision/latest?cb=20160401180907",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Veemon",
@@ -3341,7 +3691,9 @@
     "x_effect": "None",
     "support": "Boost own Attack Power +100. Draw 1 Card.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/6/6a/Veemon_175_%28DDCB%29.jpg/revision/latest?cb=20160401180945",
-    "isPartner": true
+    "isPartner": true,
+    "x_effect_speed": "0",
+    "support_speed": "1"
   },
   {
     "name": "Submarimon",
@@ -3360,7 +3712,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "Discard 2 Cards from opponent's Online Deck. Draw 1 Card.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/4/4f/Submarimon_176_%28DDCB%29.jpg/revision/latest?cb=20160401181006",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Quetzalmon",
@@ -3379,7 +3733,9 @@
     "x_effect": "{{button|x}} Counter",
     "support": "Lower Opponent's Attack Power -100. Draw 1 Card.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/c/cf/Quetzalmon_177_%28DDCB%29.jpg/revision/latest?cb=20160401181030",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Tylomon",
@@ -3398,7 +3754,9 @@
     "x_effect": "Fire Foe x3",
     "support": "Change own Specialty to Nature. Draw 1 Card.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/e/e8/Tylomon_178_%28DDCB%29.jpg/revision/latest?cb=20160401181051",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Halsemon",
@@ -3417,7 +3775,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "Draw 3 Cards.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/b/ba/Halsemon_179_%28DDCB%29.jpg/revision/latest?cb=20160401181113",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Pegasusmon",
@@ -3436,7 +3796,9 @@
     "x_effect": "1st Attack",
     "support": "If foe's Specialty is Nature, own Attack Power is doubled. Draw 1 Card.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/2/21/Pegasusmon_180_%28DDCB%29.jpg/revision/latest?cb=20160401181144",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "2",
+    "support_speed": "1"
   },
   {
     "name": "Nefertimon",
@@ -3455,7 +3817,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "Change own Specialty to Nature. Draw 1 card.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/c/c4/Nefertimon_181_%28DDCB%29.jpg/revision/latest?cb=20160401181225",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Hawkmon",
@@ -3474,7 +3838,9 @@
     "x_effect": "{{button|c}} Counter",
     "support": "Draw 3 Cards.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/7/75/Hawkmon_182_%28DDCB%29.jpg/revision/latest?cb=20160401181246",
-    "isPartner": true
+    "isPartner": true,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Patamon",
@@ -3493,7 +3859,9 @@
     "x_effect": "{{button|c}} Counter",
     "support": "If foe's Specialty is Darkness, own Attack Power is doubled. Draw 1 Card.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/f/fe/Patamon_183_%28DDCB%29.jpg/revision/latest?cb=20160401181305",
-    "isPartner": true
+    "isPartner": true,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Gatomon",
@@ -3512,7 +3880,9 @@
     "x_effect": "{{button|t}} Counter",
     "support": "Change own Specialty to Nature. Draw 1 Card.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/c/c5/Gatomon_184_%28DDCB%29.jpg/revision/latest?cb=20160401181329",
-    "isPartner": true
+    "isPartner": true,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Raidramon",
@@ -3531,7 +3901,9 @@
     "x_effect": "{{button|t}} to 0",
     "support": "Boost own Attack Power by +100. Draw 1 Card.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/b/b0/Raidramon_185_%28DDCB%29.jpg/revision/latest?cb=20160401181404",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Shadramon",
@@ -3550,7 +3922,9 @@
     "x_effect": "Jamming",
     "support": "Lower Opponent's Attack Power -100. Draw 1 Card.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/0/01/Shadramon_186_%28DDCB%29.jpg/revision/latest?cb=20160401181525",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "3",
+    "support_speed": "1"
   },
   {
     "name": "Wormmon",
@@ -3569,7 +3943,9 @@
     "x_effect": "{{button|c}} to 0",
     "support": "Lower Opponent's Attack Power -100. Draw 1 Card.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/5/51/Wormmon_187_%28DDCB%29.jpg/revision/latest?cb=20160401181606",
-    "isPartner": true
+    "isPartner": true,
+    "x_effect_speed": "1",
+    "support_speed": "1"
   },
   {
     "name": "Shurimon",
@@ -3588,7 +3964,9 @@
     "x_effect": "{{button|x}} to 0",
     "support": "Draw 3 Cards.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/f/f6/Shurimon_188_%28DDCB%29.jpg/revision/latest?cb=20160401181648",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   },
   {
     "name": "Digmon",
@@ -3607,7 +3985,9 @@
     "x_effect": "None",
     "support": "Discard 2 Cards from opponent's Online Deck. Draw 1 Card.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/5/52/Digmon_189_%28DDCB%29.jpg/revision/latest?cb=20160401181712",
-    "isPartner": false
+    "isPartner": false,
+    "x_effect_speed": "0",
+    "support_speed": "2"
   },
   {
     "name": "Armadillomon",
@@ -3626,6 +4006,8 @@
     "x_effect": "{{button|c}} to 0",
     "support": "Discard 2 Cards from opponent's Online Deck. Draw 1 Card.",
     "img_src": "https://static.wikia.nocookie.net/digimon/images/9/91/Armadillomon_190_%28DDCB%29.jpg/revision/latest?cb=20160401181742",
-    "isPartner": true
+    "isPartner": true,
+    "x_effect_speed": "1",
+    "support_speed": "2"
   }
 ]
