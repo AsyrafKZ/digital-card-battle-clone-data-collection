@@ -1,0 +1,879 @@
+{{DDCB_Option_Card
+|name=Golden Banana
+|image=golden_banana_card.png
+|number=191
+|speed=2
+|effect=Own HP is halved. Counterattack. Attack second.
+}}
+
+{{DDCB_Option_Card
+|name=Devil's Chip
+|image=devil_chip_card.png
+|number=192
+|speed=1
+|effect=Discard one card from own hand. Boost both players' attack power by +600.
+}}
+
+{{DDCB_Option_Card
+|name=Whistle
+|image=whistle_card.png
+|number=193
+|speed=1
+|effect=If your opponent's level is higher than yours, his attack power becomes 0.
+}}
+
+{{DDCB_Option_Card
+|name=Giga Hand
+|image=giga_hand_card.png
+|number=194
+|speed=2
+|effect=Discard seven cards from own online deck. Own attack power matches own HP.
+}}
+
+{{DDCB_Option_Card
+|name=Metallic Banana
+|image=metallic_banana_card.png
+|number=195
+|speed=2
+|effect=Own HP is halved. Your opponent's attack power becomes 0.
+}}
+
+{{DDCB_Option_Card
+|name=Shining Mane
+|image=shining_mane_card.png
+|number=196
+|speed=2
+|effect=If opponent's HP is more than 1000, it is halved.
+}}
+
+{{DDCB_Option_Card
+|name=Mega Recovery Floppy
+|image=mega_rec_floppy_card.png
+|number=197
+|speed=2
+|effect=Discard seven cards from own online deck. Recover own HP by +1000.
+}}
+
+{{DDCB_Option_Card
+|name=Mega Attack Chip
+|image=mega_atk_chip_card.png
+|number=198
+|speed=2
+|effect=Discard seven cards from own online deck. Boost own attack power by +500.
+}}
+
+{{DDCB_Option_Card
+|name=Dark Lord's Cape
+|image=dark_lord_cape_card.png
+|number=199
+|speed=1
+|effect=If your opponent's HP is less than yours, boost own attack power by +400.
+}}
+
+{{DDCB_Option_Card
+|name=Fake Sevens
+|image=fake_sevens_card.png
+|number=200
+|speed=1
+|effect=None.
+}}
+
+{{DDCB_Option_Card
+|name=Net Worm
+|image=net_worm_card.png
+|number=201
+|speed=2
+|effect=If both players use the same attack, discard all cards in your opponent's hand.
+}}
+
+{{DDCB_Option_Card
+|name=Missile Pod
+|image=missile_pod_card.png
+|number=202
+|speed=2
+|effect=Discard entire hand. Own attack power is doubled.
+}}
+
+{{DDCB_Option_Card
+|name=Shogun's Order
+|image=297_shoguns_order_ddcb.png
+|number=203
+|speed=1
+|effect=Both players' attack power becomes 0.
+}}
+
+{{DDCB_Option_Card
+|name=Beetle Diamond
+|image=beetle_diamond_card.png
+|number=204
+|speed=2
+|effect=Attack first. Boost own attack power by +100.
+}}
+
+{{DDCB_Option_Card
+|name=Dark Bone
+|image=dark_bone_card.png
+|number=205
+|speed=2
+|effect=Own attack becomes "Eat-up HP".
+}}
+
+{{DDCB_Option_Card
+|name=Red Digivice
+|image=red_digivice_card.png
+|number=206
+|speed=2
+|effect=If own specialty is {{DDCB_Specialty | Fire}}, boost own attack power by +100 and recover own HP by +200.
+}}
+
+{{DDCB_Option_Card
+|name=Blue Digivice
+|image=blue_digivice_card.png
+|number=207
+|speed=2
+|effect=If own specialty is {{DDCB_Specialty | Ice}}, boost own attack power by +100 and recover own HP by +200.
+}}
+
+{{DDCB_Option_Card
+|name=Green Digivice
+|image=green_digivice_card.png
+|number=208
+|speed=2
+|effect=If own specialty is {{DDCB_Specialty | Nature}}, boost own attack power by +100 and recover own HP by +200.
+}}
+
+{{DDCB_Option_Card
+|name=Black Digivice
+|image=black_digivice_card.png
+|number=209
+|speed=2
+|effect=If own specialty is {{DDCB_Specialty | Darkness}}, boost own attack power by +100 and recover own HP by +200.
+}}
+
+{{DDCB_Option_Card
+|name=Yellow Digivice
+|image=yellow_digivice_card.png
+|number=210
+|speed=2
+|effect=If own specialty is {{DDCB_Specialty | Rare}}, boost own attack power by +100 and recover own HP by +200.
+}}
+
+{{DDCB_Option_Card
+|name=Pink Digivice
+|image=pink_digivice_card.png
+|number=211
+|speed=2
+|effect=If both players have same specialty, boost own attack power by +200 and recover own HP by +400.
+}}
+
+{{DDCB_Option_Card
+|name=Another Dimension
+|image=another_dimension_card.png
+|number=212
+|speed=2
+|effect=Discard seven cards from both players' online decks.
+}}
+
+{{DDCB_Option_Card
+|name=Uninstall
+|image=uninstall_card.png
+|number=213
+|speed=2
+|effect=If both players use the same attack, discard seven cards from your opponent's online deck.
+}}
+
+{{DDCB_Option_Card
+|name=Evil Program
+|image=evil_program_card.png
+|number=214
+|speed=2
+|effect=Discard one card from your DP slot. Discard all cards in your opponent's DP slot.
+}}
+
+{{DDCB_Option_Card
+|name=Coliseum
+|image=coliseum_card.png
+|number=215
+|speed=2
+|effect=Both players use {{Playstation_Button | Circle}}. Boost own attack power by +100.
+}}
+
+{{DDCB_Option_Card
+|name=Fire Altar
+|image=fire_altar_card.png
+|number=216
+|speed=2
+|effect=Change opponent's specialty to {{DDCB_Specialty | Fire}}. Draw one card from your online deck.
+}}
+
+{{DDCB_Option_Card
+|name=Ice Altar
+|image=ice_altar_card.png
+|number=217
+|speed=2
+|effect=Change opponent's specialty to {{DDCB_Specialty | Ice}}. Draw one card from your online deck.
+}}
+
+{{DDCB_Option_Card
+|name=Nature Altar
+|image=nature_altar_card.png
+|number=218
+|speed=2
+|effect=Change opponent's specialty to {{DDCB_Specialty | nature}}. Draw one card from your online deck.
+}}
+
+{{DDCB_Option_Card
+|name=Darkness Altar
+|image=dark_altar_cafrd.png
+|number=219
+|speed=2
+|effect=Change opponent's specialty to {{DDCB_Specialty | darkness}}. Draw one card from your online deck.
+}}
+
+{{DDCB_Option_Card
+|name=Rare Altar
+|image=rare_altar_card.png
+|number=220
+|speed=2
+|effect=Change opponent's specialty to {{DDCB_Specialty | Rare}}. Draw one card from your online deck.
+}}
+
+{{DDCB_Option_Card
+|name=Super Recovery Floppy
+|image=large_recovery_floppy_card.png
+|number=221
+|speed=2
+|effect=If your HP is less than your opponent's, recover your HP by +700.
+}}
+
+{{DDCB_Option_Card
+|name=Mega Defense Disk {{Playstation_Button | Circle}}
+|image=mega_circle_defense.png
+|number=222
+|speed=2
+|effect=Your opponent's {{Playstation_Button | Circle}} attack power becomes 0. Recover your HP by +100. 
+}}
+
+{{DDCB_Option_Card
+|name=Mega Defense Disk {{Playstation_Button | Triangle}}
+|image=mega_triangle_defense.png
+|number=223
+|speed=2
+|effect=Your opponent's {{Playstation_Button | Triangle}} attack power becomes 0. Recover your HP by +100. 
+}}
+
+{{DDCB_Option_Card
+|name=Mega Defense Disk {{Playstation_Button | Cross}}
+|image=mega_x_defense.png
+|number=224
+|speed=2
+|effect=Your opponent's {{Playstation_Button | Cross}} attack power becomes 0. Recover your HP by +100. 
+}}
+
+{{DDCB_Option_Card
+|name=Heap of Junk
+|image=heap_of_junk_card.png
+|number=225
+|speed=2
+|effect=Your opponent discards 2 cards form his online deck and one from his hand.
+}}
+
+{{DDCB_Option_Card
+|name=Beam Gun
+|image=ray_gun_card.png
+|number=226
+|speed=2
+|effect=Your attack power becomes 0. Your opponent's HP is halved.
+}}
+
+{{DDCB_Option_Card
+|name=Chain Saw
+|image=chainsaw_card.png
+|number=227
+|speed=2
+|effect=Your HP is reduced to 10. Attack power is tripled.
+}}
+
+{{DDCB_Option_Card
+|name=Metal Parts
+|image=metal_parts_card.png
+|number=228
+|speed=2
+|effect=Discard your entire hand. Multiply your attack power by the number of discards.
+}}
+
+{{DDCB_Option_Card
+|name=Metal Armor
+|image=metal_armor_card.png
+|number=229
+|speed=2
+|effect=Discard all cards on own DP slot. Multiply your attack power by the number of discards.
+}}
+
+{{DDCB_Option_Card
+|name=Mega Hand
+|image=mega_hand_card.png
+|number=230
+|speed=2
+|effect=Own attack power matches HP, then HP is cut in half.
+}}
+
+{{DDCB_Option_Card
+|name=Level Balancer
+|image=level_balancer_card.png
+|number=231
+|speed=1
+|effect=If own level is R, boost own attack power by +400.
+}}
+
+{{DDCB_Option_Card
+|name=Level Manager
+|image=level_manager_card.png
+|number=232
+|speed=1
+|effect=If own level is C, boost own attack power by +400.
+}}
+
+{{DDCB_Option_Card
+|name=Level Booster
+|image=level_booster_card.png
+|number=233
+|speed=1
+|effect=If own level is U, boost own attack power by +400.
+}}
+
+{{DDCB_Option_Card
+|name=Armor Clash
+|image=armor_clash_card.png
+|number=234
+|speed=1
+|effect=If your opponent's level is A, then its attack power becomes 0 and own attack power is doubled.
+}}
+
+{{DDCB_Option_Card
+|name=Silver Ball
+|image=silver_ball_card.png
+|number=235
+|speed=1
+|effect=If your opponent's level is U, then its attack power becomes 0 and own attack power is doubled.
+}}
+
+{{DDCB_Option_Card
+|name=Coral Charm
+|image=coral_charm_card.png
+|number=236
+|speed=1
+|effect=If your opponent's specialty is {{DDCB_Specialty | Fire}} or {{DDCB_Specialty | Ice}}, then its attack power becomes 0.
+}}
+
+{{DDCB_Option_Card
+|name=Patch of Love
+|image=patch_of_love_card.png
+|number=237
+|speed=1
+|effect=If your opponent's specialty is {{DDCB_Specialty | Nature}} or {{DDCB_Specialty | Darkness}}, then its attack power becomes 0.
+}}
+
+{{DDCB_Option_Card
+|name=Mystery Egg
+|image=mystery_egg_card.png
+|number=238
+|speed=2
+|effect=Both specialties become {{DDCB_Specialty | Rare}}.
+}}
+
+{{DDCB_Option_Card
+|name=Miracle Ruby
+|image=miracle_ruby_card.png
+|number=239
+|speed=1
+|effect=Digimon KO'd in battle revives with 1000 HP. The battle is still lost.
+}}
+
+{{DDCB_Option_Card
+|name=Cyber Parts
+|image=cyber_parts_card.png
+|number=240
+|speed=1
+|effect=If both you and your opponent choose the same attack button, your attack power is tripled.
+}}
+
+{{DDCB_Option_Card
+|name=Liquid Crystal
+|image=liquid_crystal_card.png
+|number=241
+|speed=1
+|effect=If both you and your opponent choose the same attack button, your opponent's attack power becomes 0.
+}}
+
+{{DDCB_Option_Card
+|name=Deluxe Mushroom
+|image=300_deluxe_mushroom_ddcb.png
+|number=242
+|speed=2
+|effect=If both players choose the same attack button, recover own HP by +700.
+}}
+
+{{DDCB_Option_Card
+|name=Lucky Mushroom
+|image=lucky_mushroom_card.png
+|number=243
+|speed=2
+|effect=If both players choose different attack buttons, recover own HP by +500.
+}}
+
+{{DDCB_Option_Card
+|name=Premium Steak
+|image=premium_steak_card.png
+|number=244
+|speed=2
+|effect=Recover own HP by +500. Recover your opponent's HP by +200.
+}}
+
+{{DDCB_Option_Card
+|name=Short Lance
+|image=short_lance_card.png
+|number=245
+|speed=1
+|effect=If both players use different attacks, own attack power is doubled.
+}}
+
+{{DDCB_Option_Card
+|name=Medium Recovery Floppy
+|image=medium_recovery_floppy_card.png
+|number=246
+|speed=2
+|effect=Own attack power is halved. Recover own HP by +500.
+}}
+
+{{DDCB_Option_Card
+|name=Digimon Analyzer
+|image=digimon_analyzer_card.png
+|number=247
+|speed=2
+|effect=Move the top three cards from your offline deck to your online deck, then shuffle.
+}}
+
+{{DDCB_Option_Card
+|name=Training Manual
+|image=training_manual_card.png
+|number=248
+|speed=2
+|effect=Draw until there are four cards in your hand. Recover your HP by +100.
+}}
+
+{{DDCB_Option_Card
+|name=Circle Hitter
+|image=circle_hitter_card.png
+|number=249
+|speed=2
+|effect=If your opponent uses {{Playstation_Button | Circle}}, attack first and gain +500 attack power.
+}}
+
+{{DDCB_Option_Card
+|name=Triangle Hitter
+|image=triangle_hitter_card.png
+|number=250
+|speed=2
+|effect=If your opponent uses {{Playstation_Button | Triangle}}, attack first and gain +500 attack power.
+}}
+
+{{DDCB_Option_Card
+|name=Cross Hitter
+|image=cross_hitter_card.png
+|number=251
+|speed=2
+|effect=If your opponent uses {{Playstation_Button | Cross}}, attack first and gain +500 attack power.
+}}
+
+{{DDCB_Option_Card
+|name=Suka's Curse
+|image=suka_curse_card.png
+|number=252
+|speed=2
+|effect=Your opponent discards 2 cards from their hand.
+}}
+
+{{DDCB_Option_Card
+|name=Cherrymon's Mist
+|image=cherrymon_mist_card.png
+|number=253
+|speed=3
+|effect=Negate your opponent's support and option effects.
+}}
+
+{{DDCB_Option_Card
+|name=Hacking
+|image=hacking_card.png
+|number=254
+|speed=2
+|effect=If your level is lower than your opponent's, switch HP with your opponent.
+}}
+
+{{DDCB_Option_Card
+|name=Digimon Grave
+|image=digimon_grave_card.png
+|number=255
+|speed=2
+|effect=Your opponent discards the 4 top cards from his online deck.
+}}
+
+{{DDCB_Option_Card
+|name=Data Copy
+|image=data_copy_card.png
+|number=256
+|speed=2
+|effect=Your HP, attack power and specialty become the same as your opponent's.
+}}
+
+{{DDCB_Option_Card
+|name=Partner Finder
+|image=partner_finder_card.png
+|number=257
+|speed=2
+|effect=Search in your online deck for a partner card at random and put it in your hand.
+}}
+
+{{DDCB_Option_Card
+|name=Fire Spot
+|image=fire_spot_card.png
+|number=258
+|speed=2
+|effect=Change own specialty to {{DDCB_Specialty | Fire}} and boost own attack power by +200.
+}}
+
+{{DDCB_Option_Card
+|name=Ice Crystal
+|image=ice_crystal_card.png
+|number=259
+|speed=2
+|effect=Change own specialty to {{DDCB_Specialty | Ice}} and recover own HP by +200.
+}}
+
+{{DDCB_Option_Card
+|name=Earth Charm
+|image=earth_charm_card.png
+|number=260
+|speed=2
+|effect=Change own specialty to {{DDCB_Specialty | Nature}}. Attack first.
+}}
+
+{{DDCB_Option_Card
+|name=Black Gear
+|image=black_gear_card.png
+|number=261
+|speed=2
+|effect=Change your specialty to {{DDCB_Specialty | Darkness}} and halve the HP of both Digimon.
+}}
+
+{{DDCB_Option_Card
+|name=Stuffed Animal
+|image=stuffed_animal_card.png
+|number=262
+|speed=2
+|effect=Change your specialty to {{DDCB_Specialty | Rare}}. Your opponent discards one card at random.
+}}
+
+{{DDCB_Option_Card
+|name=Disrupt Ray
+|image=disrupt_ray_card.png
+|number=263
+|speed=2
+|effect=If your opponent uses {{Playstation_Button | Circle}}, change it to {{Playstation_Button | Triangle}}. If he uses {{Playstation_Button | Triangle}}, change it to {{Playstation_Button | Cross}}. If he uses {{Playstation_Button | Cross}}, change it to {{Playstation_Button | Circle}}.
+}}
+
+{{DDCB_Option_Card
+|name=Attack Chip
+|image=attack_chip_card.png
+|number=264
+|speed=1
+|effect=Boost own attack power by +300.
+}}
+
+{{DDCB_Option_Card
+|name=High Speed Disk
+|image=high_speed_disk_card.png
+|number=265
+|speed=1
+|effect=Discard one card at random from your hand. Your opponent's attack power becomes 0.
+}}
+
+{{DDCB_Option_Card
+|name=Recovery Floppy
+|image=recovery_floppy_card.png
+|number=266
+|speed=2
+|effect=Recover own HP by +300.
+}}
+
+{{DDCB_Option_Card
+|name=Attack Disk {{Playstation_Button | Circle}}
+|image=attack_disk_circle_card.png
+|number=267
+|speed=1
+|effect=Own {{Playstation_Button | Circle}} attack power is doubled.
+}}
+
+{{DDCB_Option_Card
+|name=Attack Disk {{Playstation_Button | Triangle}}
+|image=attack_disk_triangle_card.png
+|number=268
+|speed=1
+|effect=Own {{Playstation_Button | Triangle}} attack power is doubled.
+}}
+
+{{DDCB_Option_Card
+|name=Attack Disk {{Playstation_Button | Cross}}
+|image=attack_disk_cross_card.png
+|number=269
+|speed=1
+|effect=Own {{Playstation_Button | Cross}} attack power is doubled.
+}}
+
+{{DDCB_Option_Card
+|name=Defense Disk {{Playstation_Button | Circle}}
+|image=defense_disk_circle_card.png
+|number=270
+|speed=1
+|effect=Your opponent's {{Playstation_Button | Circle}} attack power is reduced to 0.
+}}
+
+{{DDCB_Option_Card
+|name=Defense Disk {{Playstation_Button | Triangle}}
+|image=defense_disk_triangle_card.png
+|number=271
+|speed=1
+|effect=Your opponent's {{Playstation_Button | Triangle}} attack power is reduced to 0.
+}}
+
+{{DDCB_Option_Card
+|name=Defense Disk {{Playstation_Button | Cross}}
+|image=defense_disk_cross_card.png
+|number=272
+|speed=1
+|effect=Your opponent's {{Playstation_Button | Cross}} attack power is reduced to 0.
+}}
+
+{{DDCB_Option_Card
+|name=Digi-Garnet
+|image=digi_garnet_card.png
+|number=273
+|speed=2
+|effect=Boost own attack power by +100.
+}}
+
+{{DDCB_Option_Card
+|name=Digi-Amethyst
+|image=digi_amethyst_card.png
+|number=274
+|speed=2
+|effect=Recover own HP by +100.
+}}
+
+{{DDCB_Option_Card
+|name=Digi-Aquamarine
+|image=digi_aquamarine_card.png
+|number=275
+|speed=2
+|effect=Digimon KO'd in battle revives with 100 HP. The battle is still lost.
+}}
+
+{{DDCB_Option_Card
+|name=Digi-Diamond
+|image=digi_diamond_card.png
+|number=276
+|speed=1
+|effect=Draw two cards from your online deck.
+}}
+
+{{DDCB_Option_Card
+|name=Digi-Emerald
+|image=digi_emerald_card.png
+|number=277
+|speed=1
+|effect=Change own specialty to {{DDCB_Specialty | Nature}}.
+}}
+
+{{DDCB_Option_Card
+|name=Digi-Pearl
+|image=digi_pearl_card.png
+|number=278
+|speed=1
+|effect=Change own specialty to {{DDCB_Specialty | Rare}}.
+}}
+
+{{DDCB_Option_Card
+|name=Digi-Ruby
+|image=digi_ruby_card.png
+|number=279
+|speed=1
+|effect=Change own specialty to {{DDCB_Specialty | Fire}}.
+}}
+
+{{DDCB_Option_Card
+|name=Digi-Sardnyx
+|image=digi_sardnyx_card.png
+|number=280
+|speed=1
+|effect=Change own specialty to {{DDCB_Specialty | Darkness}}.
+}}
+
+{{DDCB_Option_Card
+|name=Digi-Sapphire
+|image=digi_sapphire_card.png
+|number=281
+|speed=1
+|effect=Change own specialty to to {{DDCB_Specialty | Ice}}.
+}}
+
+{{DDCB_Option_Card
+|name=Digi-Opal
+|image=digi_opal_card.png
+|number=282
+|speed=2
+|effect=Own attack becomes {{Playstation_Button | Circle}}.
+}}
+
+{{DDCB_Option_Card
+|name=Digi-Topaz
+|image=digi_topaz_card.png
+|number=283
+|speed=2
+|effect=Own attack becomes {{Playstation_Button | Triangle}}.
+}}
+
+{{DDCB_Option_Card
+|name=Digi-Turquoise
+|image=digi_turquoise_card.png
+|number=284
+|speed=2
+|effect=Own attack becomes {{Playstation_Button | Cross}}.
+}}
+
+{{DDCB_Option_Card
+|name=Wild Sevens
+|image=wild_sevens_card.png
+|number=285
+|speed=1
+|effect=Own attack power is tripled.
+}}
+
+{{DDCB_Option_Card
+|name=Holy Sevens
+|image=holy_sevens_card.png
+|number=286
+|speed=2
+|effect=Recover own HP by +1000
+}}
+
+{{DDCB_Option_Card
+|name=Dark Sevens
+|image=dark_sevens_card.png
+|number=287
+|speed=2
+|effect=If your opponent's HP is less that yours, reduce opponent's HP to 10.
+}}
+
+{{DDCB_Option_Card
+|name=Ground Sevens
+|image=ground_sevens_card.png
+|number=288
+|speed=1
+|effect=Boost own attack power by the number of own HP.
+}}
+
+{{DDCB_Option_Card
+|name=Misty Sevens
+|image=misty_sevens_card.png
+|number=289
+|speed=3
+|effect=Negate your opponent's support and option effects. Your opponent's attack power becomes 0.
+}}
+
+{{DDCB_Option_Card
+|name=Speed Sevens
+|image=speed_sevens_card.png
+|number=290
+|speed=2
+|effect=Boost own attack power by +200. Attack first. Attack becomes "Eat-Up HP".
+}}
+
+{{DDCB_Option_Card
+|name=Reverse Sevens
+|image=reverse_sevens_card.png
+|number=291
+|speed=2
+|effect=Move the top ten cards from your offline deck to your online deck, then shuffle.
+}}
+
+{{DDCB_Option_Card
+|name=Rosemon's Lure
+|image=rosemon_lure_card.png
+|number=292
+|speed=2
+|effect=Your opponent discards all cards in their hand and their DP slot.
+}}
+
+{{DDCB_Option_Card
+|name=Download Evolution
+|image=download_evolution_card.png
+|number=293
+|speed=0
+|effect=Evolve any Digimon into any Digimon regardless of specialty, level or DP.
+}}
+
+{{DDCB_Option_Card
+|name=Armor-Crush Evolution
+|image=armor_crush_evolution_card.png
+|number=294
+|speed=0
+|effect=Evolve any A Digimon into a C or U Digimon (DP are needed).
+}}
+
+{{DDCB_Option_Card
+|name=Special Evolution
+|image=special_evolution_card.png
+|number=295
+|speed=0
+|effect=Disregard specialty upon evolving any Digimon {{NT|by paying an extra 20 DP|Due to an oversight in the game's programming, Special Evolution reduces the evolution costs by 20 DP instead of increasing them.}}.
+}}
+
+{{DDCB_Option_Card
+|name=Mutant Evolution
+|image=mutant_evolution_card.png
+|number=296
+|speed=0
+|effect=Evolve any Digimon into any other Digimon of its same level (DP are needed) (Disregard specialty).
+}}
+
+{{DDCB_Option_Card
+|name=Warp Evolution
+|image=warp_evolution_card.png
+|number=297
+|speed=0
+|effect=Evolve any R Digimon into a U Digimon of same specialty (DP are needed).
+}}
+
+{{DDCB_Option_Card
+|name=De-Armor Evolution
+|image=de_armor_evolution_card.png
+|number=298
+|speed=0
+|effect={{NT|Devolve|When evolving Digimon, players stack the new forms on top of the old ones. Devolving a Digimon means discarding the top card of the Digimon stack, revealing the previous form of the Digimon. The Digimon will then play as its previous form in all ways, but will inherit its successor's HP unless otherwise specified by the card that allowed the devolution. Devolution is not possible when there are no cards stacked below the player's current Digimon (i.e. the Digimon has not evolved whatsoever).}} an A Digimon into its R form.
+}}
+
+{{DDCB_Option_Card
+|name=Speed Evolution
+|image=speed_evolution_card.png
+|number=299
+|speed=0
+|effect=Disregard DP when evolving any Digimon (not possible in {{NT|abnormal states|Refers to states where Digimon do not play as normally expected by the card. For example, the cut in HP and attack power C and U cards suffer when played directly from the hand is considered an abnormal state, and so any card that cannot act if an abnormal state is present will not be able to act upon Digimon afflicted with that condition. It is to be noted, though, that having evolved in certain unnatural ways is not considered an abnormal state, and so Digimon whose previous form's specialty does not match their own, for example, can be affected by cards that cannot act if an abnormal state is present.}})
+}}
+
+{{DDCB_Option_Card
+|name=Digi-Devolve
+|image=digi_devolve_card.png
+|number=300
+|speed=0
+|effect=Devolve a Digimon into its previous state. HP is doubled when successful.
+}}

@@ -1,0 +1,444 @@
+{{button|c}} Counter
+Add number of DP Cards in DP Slot x100 to own Attack Power.
+{{button|x}} Counter
+Changes own Specialty to Fire. Boost own Attack Power +100.
+Ice Foe x3
+Add number of Cards in Hand x100 to own Attack Power.
+Eat-Up HP
+Digimon KO'd in battle revives with 500 HP. Battle is still lost.
+{{button|x}} to 0
+If own Specialty is Fire, boost own Attack Power +300.
+{{button|c}} Counter
+Boost own Attack Power +300.
+1st Attack
+If own Attack is {{button|c}}, attack first.
+Ice Foe x3
+If own Specialty is Fire, own Attack Power is doubled.
+{{button|c}} Counter
+If own Level is U, boost own Attack Power +500.
+{{button|t}} Counter
+{{button|c}} to 0
+Lower opponent's {{button|c}} Attack Power to 0.
+{{button|c}} Counter
+If own Level is A, boost own Attack Power +300.
+1st Attack
+If own attack is {{button|t}}, attack first.
+{{button|c}} Counter
+If own Level is C, boost own Attack Power +300.
+{{button|c}} Counter
+Change own Specialty to Fire. Boost own Attack Power +200.
+Nature Foe x3
+{{button|c}} to 0
+Ice Foe x3
+If opponent's Specialty is Ice, own Attack Power is tripled.
+Ice Foe x3
+Use {{button|c}} and Boost own {{button|c}} Attack Power +400.
+1st Attack
+Attack first.
+1st Attack
+Own HP become 10. Boost own Attack Power +500.
+Discard all own DP Cards in DP Slot, boost own Attack Power +300.
+{{button|c}} to 0
+Own {{button|c}} Attack Power becomes same as own HP.
+{{button|c}} to 0
+Boost own Attack Power +200.
+Crash
+If both Levels are C, boost own Attack Power +400.
+Change own Specialty to Fire.
+{{button|c}} to 0
+Boost own {{button|c}} Attack Power +300.
+Crash
+1st Attack
+Boost own Attack Power +200.
+{{button|x}} Counter
+Boost own {{button|t}} Attack Power +300.
+{{button|c}} Counter
+Boost own {{button|x}} Attack Power +200.
+Ice Foe x3.
+If opponent's Specialty is Ice, own Attack Power is doubled.
+{{button|c}} to 0
+{{button|x}} Counter
+Change own Specialty to Ice. Recover own HP by +100.
+Fire Foe x3
+If own Specialty is Ice, opponent's Support Effect is voided.
+Fire Foe x3
+If own Cards in Hand 3 or more, opponent's Attack Power becomes 0.
+{{button|c}} to 0
+Recover own HP by +200.
+{{button|t}} Counter
+Add number of DP Cards in DP Slot x100 to own HP.
+{{button|c}} to 0
+If own Specialty is Ice, opponent's Attack Power is halved.
+{{button|t}} Counter
+{{button|t}} Counterattack. Attack second.
+{{button|c}} Counter
+{{button|c}} Counterattack. Attack second.
+Jamming
+Opponent's Support Effect is voided.
+{{button|c}} to 0
+Lower opponent's {{button|c}} Attack Power to 0.
+{{button|x}} to 0
+Lower opponent's {{button|x}} Attack Power to 0.
+{{button|c}} Counter
+Opponent uses {{button|c}}.
+Fire Foe x3
+If opponent's Specialty is Fire, own Attack Power is tripled.
+{{button|x}} to 0
+If own Attack is not {{button|c}}, recover own HP by +300.
+{{button|t}} to 0
+Own HP become 700.
+{{button|c}} to 0
+Opponent's Attack Power is halved.
+{{button|c}} to 0
+Fire Foe x3
+Recover own HP by +200.
+{{button|c}} to 0
+Change opponent's Specialty to Ice.
+{{button|c}} to 0
+Lower opponent's {{button|c}} Attack Power to 0.
+Recover own HP by +200.
+{{button|c}} to 0
+If opponent used {{button|c}}, change it to {{button|x}}.
+Jamming
+Change own Specialty to Ice.
+Fire Foe x3
+If opponent's Specialty is fire, own Attack Power is tripled.
+{{button|c}} Counter
+{{button|x}} Counter
+{{button|t}} to 0
+Lower opponent's {{button|t}} Attack Power to 0.
+{{button|c}} to 0
+{{button|c}} to 0
+If own HP are less then 200, reduce opponent's Attack Power to 0.
+{{button|c}} to 0
+If opponent's Specialty is Fire, reduce opponent's Attack Power to 0.
+Fire Foe x3
+If opponent's Specialty is Fire, own Attack Power is doubled.
+{{button|c}} to 0
+Reduce opponent's {{button|c}} Attack Power to 0.
+{{button|x}} to 0
+Reduce opponent's {{button|x}} Attack Power to 0.
+{{button|c}} to 0
+Opponent uses O.
+Dark Foe x3
+If opponent's Specialty is Darkness, own Attack Power is +200 & HP +200.
+{{button|x}} to 0
+{{button|x}} Counterattack. Attack second.
+1st Attack
+If own level is U, own Attack Power is doubled.
+Eat-up HP
+If opponent's HP are 1000+, own attack becomes "Eat-up HP."
+1st Attack
+Darkness Foe x3
+If opponent's Specialty is Darkness, boost own Attack Power +500.
+{{button|t}} to 0
+If opponent's Specialty is not Nature, attack second.
+Darkness Foe x3
+If opponent's Specialty is Darkness, recover own HP by +500.
+Eat-up HP
+Recover own HP by +200.
+{{button|c}} Counter
+Opponent's Support Effect is voided. Own Attack Power is halved.
+1st Attack
+If own level is U, own Attack Power is doubled.
+Darkness Foe x3
+If opponent's Specialty is Darkness, own Attack Power is tripled.
+{{button|x}} to 0
+If own HP are less than 500, boost own Attack Power +300.
+{{button|t}} to 0
+Boost own Attack Power +100.
+If own level is lower, boost own Attack Power +500.
+{{button|c}} Counter
+{{button|c}} to 0
+Recover own HP by +100. Boost own Attack Power by +100.
+{{button|c}} to 0
+If opponent's Specialty is Darkness, lower opponent's Attack Power to 0.
+1st Attack
+Attack first.
+{{button|t}} Counter
+Boost own Attack Power +200.
+Jamming
+Changes opponent's Specialty to Nature.
+{{button|c}} to 0
+Lower opponent's Attack Power to 0. Opponent's HP are doubled.
+1st Attack
+If own Level is R, boost own Attack Power +300.
+{{button|c}} to 0
+If opponent's Specialty is Darkness, lower opponent's Attack Power -200.
+{{button|c}} to 0
+Eat-up HP
+{{button|t}} Counter
+Changes own Specialty to Nature. Draw 1 Card.
+Ice Foe x3
+If opponent's Specialty is Ice, boost own Attack Power +300.
+{{button|x}} to 0
+If own HP are more than opponent's HP, own Attack Power is doubled.
+Jamming
+Lower both Attack Powers -200.
+Crash
+Own HP are halved. Change own Specialty to Darkness.
+Discard 7 Cards from own Online Deck. Opponent's HP are halved.
+Crash
+Own HP become 10. Changes opponent's Specialty to Darkness.
+Nature Foe x3
+Jamming
+Both players discard all Cards in Hands.
+Crash
+Jamming
+Discard 5 Cards from own Online Deck. Boost own Attack Power +400.
+Eat-up HP
+Both players boost Attack Power +200.
+Eat-up HP
+Digimon KO'd in battle revives with 500 HP. Battle is still lost.
+1st Attack
+Both players' HP are halved.
+Nature Foe x3
+If opponent's Specialty is Nature, opponent discards all Cards.
+Eat-up HP
+Discard 7 Cards from own Online Deck, own Attack is "Eat-up HP."
+Jamming
+Own HP become 10. Own Attack Power is doubled.
+Own HP are halved. Boost own Attack Power +400.
+Eat-up HP
+Discard 1 DP Card from own DP Slot. Boost own Attack Power +200.
+Jamming
+Discard all Cards in own Hand, then draw 2 Cards.
+Own Attack becomes {{button|t}}.
+Nature Foe x3
+If opponent's Specialty is Nature, own Attack Power is tripled.
+Own Attack becomes {{button|x}}.
+{{button|t}} Counter
+Discard Cards in own DP Slot and multiply Attack Power by number of discards.
+Eat-up HP
+Change own Specialty to Darkness.
+Crash
+Own HP are halved. Boost own Attack Power +300.
+Crash
+Both players boost Attack Power +300.
+{{button|c}} to 0
+Both players use {{button|t}}.
+Eat-up HP
+Discard 1 Card in DP Slot. change opponent's Specialty to Darkness.
+Own Attack becomes {{button|c}}.
+1st Attack
+Both players use {{button|x}}.
+{{button|c}} to 0
+Both players use {{button|c}}.
+Opponent's Attack Power become 300.
+Nature Foe x3
+If opponent's Specialty is Nature, own Attack Power is doubled.
+{{button|x}} to 0
+If opponent's Level is A, opponent's HP are halved.
+{{button|t}} to 0
+Reduce own Attack Power by -100. Recover own HP by +200.
+{{button|c}} to 0
+Boost own {{button|x}} Attack Power +200. {{button|c}} & {{button|t}} Attack Power are 0.
+Rare Foe x3
+If opponent's Specialty is Rare, opponent's HP become 100.
+Eat-up HP
+Own Attack becomes "Eat-up HP." Own Attack Power is halved.
+Jamming
+Opponent's HP are halved. opponent's Attack Power is doubled.
+Jamming
+Discard 1 of opponent's Cards in DP Slot. Draw 1 Card.
+Rare Foe x3
+If opponent's Specialty is Rare, lower opponent's Attack Power to 0.
+{{button|c}} Counter
+{{button|c}} Counterattack. Attack second.
+Jamming
+Recover own HP by +100. Boost own {{button|x}} Attack Power by +100.
+{{button|t}} to 0
+If opponent's Specialty is Darkness, lower opponent's Attack Power to 0.
+{{button|c}} to 0
+Swap own Specialty with opponent's Specialty.
+Jamming
+Opponent's Specialty becomes the same as own Specialty.
+Crash
+Opponent uses {{button|x}}.
+Darkness Foe x3
+Recover own HP by +200. Boost own Attack Power by +100.
+1st Attack
+{{button|c}} Counter
+Jamming
+Lower opponent's {{button|x}} Attack Power to 0.
+{{button|c}} to 0
+If opponent has more than 2 Cards in DP Slot, his Attack Power is 0.
+Darkness Foe x3
+If opponent's Specialty is Darkness, opponent's Support Effect is voided.
+{{button|x}} Counter
+If opponent used {{button|x}}, discard all Cards in opponent's Hand.
+{{button|c}} to 0
+Move the top Card from Offline Pile to Online Deck.
+{{button|c}} to 0
+Discard opponent's top DP Card shown in DP Slot.
+{{button|x}} Counter
+Return all Cards in own Hand to Online Deck and Shuffle.
+{{button|x}} to 0
+Discard opponent's 2 top DP Cards in his DP Slot.
+Jamming
+Discard 1 Card from opponent's Hand at random.
+Rare Foe x3
+Discard 3 Cards from opponent's Online Deck.
+Discard all Cards in DP Slot. Foe discards same number of DP Cards.
+Rare Foe x3
+Opponent uses {{button|t}}.
+{{button|c}} Counter
+1st Attack
+Opponent uses {{button|c}}. Lower opponent's Attack Power -100.
+If 1 or less Cards left in own Hand, opponent's Attack Power goes to 0.
+Crash
+Discard all Cards in DP Slot. Recover HP, mumber of discards x100.
+{{button|t}} Counter
+Discard 1 Card at random from own Hand. HP of both Players are 200.
+Jamming
+Opponent's Support Effect is voided.
+Rare Foe x3
+{{button|c}} to 0
+Own HP become same as opponent's.
+{{button|c}} to 0
+Opponent's HP become same as own. Own Attack Power becomes 0.
+{{button|c}} Counter
+Boost own Attack Power +100. Draw 1 Card.
+{{button|c}} to 0
+Boost own Attack Power by +100. Draw 1 Card.
+{{button|c}} to 0
+If foe's Specialty is Darkness, own Attack Power is Doubled. Draw 1 Card.
+Boost own Attack Power +100. Draw 1 Card.
+{{button|c}} to 0
+Discard 2 Cards from opponent's Online Deck. Draw 1 Card.
+{{button|x}} Counter
+Lower Opponent's Attack Power -100. Draw 1 Card.
+Fire Foe x3
+Change own Specialty to Nature. Draw 1 Card.
+{{button|c}} to 0
+Draw 3 Cards.
+1st Attack
+If foe's Specialty is Nature, own Attack Power is doubled. Draw 1 Card.
+{{button|c}} to 0
+Change own Specialty to Nature. Draw 1 card.
+{{button|c}} Counter
+Draw 3 Cards.
+{{button|c}} Counter
+If foe's Specialty is Darkness, own Attack Power is doubled. Draw 1 Card.
+{{button|t}} Counter
+Change own Specialty to Nature. Draw 1 Card.
+{{button|t}} to 0
+Boost own Attack Power by +100. Draw 1 Card.
+Jamming
+Lower Opponent's Attack Power -100. Draw 1 Card.
+{{button|c}} to 0
+Lower Opponent's Attack Power -100. Draw 1 Card.
+{{button|x}} to 0
+Draw 3 Cards.
+Discard 2 Cards from opponent's Online Deck. Draw 1 Card.
+{{button|c}} to 0
+Discard 2 Cards from opponent's Online Deck. Draw 1 Card.
+Own HP are halved. Counterattack. Attack second.
+Discard 1 Card from own Hand. Boost both players' Attack Power +600.
+If own Level is below opponent's, opponent's Attack Power becomes 0.
+Discard 7 Cards from Online Deck. Own Attack Power is same as own HP.
+Own HP are halved. Opponent's Attack Power becomes 0.
+If opponent's HP are more than 1000, opponent's HP are halved.
+Discard 7 Cards from own Online Deck. Recover own HP by +1000.
+Discard 7 Cards from own Online Deck. Boost own Attack Power +500.
+If opponent's HP is less than own, boost own Attack Power +400.
+If both players use same Attack, discard all Cards in foe's Hand.
+Discard all Cards in own Hand. Own Attack Power is doubled.
+Both players' Attack Power becomes 0.
+Attack first. Boost own Attack Power +100.
+Own attack becomes "Eat-up HP."
+If own Specialty is Fire, boost own Attack Power +100, recover HP +200.
+If own Specialty is Ice, boost own Attack Power +100, recover HP +200.
+If own Specialty is Nature, boost own Attack Power +100, recover HP +200.
+If own Specialty is Darkness, boost own Attack Power +100, recover HP +200.
+If own Specialty is Rare, boost own Attack Power +100, recover HP +200.
+If Specialties are same, boost own Attack Power +200, recover HP +400.
+Discard 7 Cards from both players' Online Decks.
+If both Attacks are same, discard 7 Cards from foe's Online Deck.
+Discard 1 Card in own DP Slot. Discard all foe's Cards in DP Slot.
+Both players' attacks become {{button|c}}. Boost own {{button|c}} Attack Power +100.
+Changes opponent's Specialty to Fire. Draw 1 Card from own Online Deck.
+Changes opponent's Specialty to Ice. Draw 1 Card from own Online Deck.
+Changes opponent's Specialty to Nature. Draw 1 Card from own Online Deck.
+Changes opponent's Specialty to Darkness. Draw 1 Card from own Online Deck.
+Changes opponent's Specialty to Rare. Draw 1 Card from own Online Deck.
+If own HP are less than foe's HP, recovcer own HP by +700.
+Opponent's {{button|c}} Attack Power goes to 0. Recover own HP by +100.
+Opponent's {{button|t}} Attack Power goes to 0. Recover own HP by +100.
+Opponent's {{button|x}} Attack Power goes to 0. Recover own HP by +100.
+Opponent discards 2 Cards from his Online Deck and 1 Card from Hand.
+Own Attack Power becomes 0. Opponent's HP are halved.
+Make own HP 10. Own Attack Power is tripled.
+Discard own Hand. Multiply own Attack Power by number of discarded Cards.
+Discard own DP Slot Cards. Multiply own Attack Power by number of discards.
+Own Attack Power matches own HP, then own HP are halved.
+If own Level is R, boost own Attack Power +400.
+If own Level is C, boost own Attack Power +400.
+If own Level is U, boost own Attack Power +400.
+If opponent is Level A, his Atk Pwr becomes 0 and own Atk Pwr is doubled.
+If opponent is Level U, his Atk Pwr becomes 0 and own Atk Pwr is doubled.
+If foe's Specialty is Fire or Ice, his Attack Power goes to 0.
+If foe's Specialty is Nature or Darkness, his Attack Power goes to 0.
+Changes both players' Specialties to Rare.
+KO'd Digimon revives with 1000. Battle is still lost.
+If both Attacks are same, own Attack Power is tripled.
+If both players use same attack, opponent's Attack Power becomes 0.
+If both players use same Attack, recover own HP +700.
+If both Attacks are different, recover own HP by +500.
+Recover own HP by +500. Recover foe's HP by +200.
+If both attacks are different, own Attack Power is doubled.
+Own Attack Power is halved. Recover own HP by +500.
+Move top 3 Cards from Offline Pile to Online Deck and shuffle.
+Draw until there are 4 Cards in own Hand. Recover own HP by +100.
+If opponent uses {{button|c}}, attack first and boost own Attack Power +500.
+If opponent uses {{button|t}}, attack first and boost own Attack Power +500.
+If opponent uses {{button|x}}, attack first and boost own Attack Power +500.
+Opponent discards 2 Cards at random from his Hand.
+Opponent's Support and Option Effects are voided.
+If own Level is lower, switch HP with opponent.
+Opponent discards 4 top Cards from Online Deck.
+Own Attack Power, HP, and Specialty become same as the opponent's.
+Pick Partner Card from own Online Deck at random and put in own Hand.
+Change own Specialty to Fire. Boost own Attack Power +200.
+Change own Specialty to Ice. Recover own HP by +200.
+Change own Specialty to Nature. Attack first.
+Change own Specialty to Darkness. Both players' HP are halved.
+Change own Specialty to Rare. Opponent discards 1 Card at random.
+Opponent's attack changes from {{button|c}} to {{button|t}}, {{button|t}} to {{button|x}}, or {{button|x}} to {{button|c}}.
+Boost own Attack Power +300.
+Randomly discard 1 Card from own Hand. Opponent's Attack Power is 0.
+Recover own HP by +300.
+Own {{button|c}} Attack Power is doubled.
+Own {{button|t}} Attack Power is doubled.
+Own {{button|x}} Attack Power is doubled.
+Opponent's {{button|c}} Attack Power is 0.
+Opponent's {{button|t}} Attack Power is 0.
+Opponent's {{button|x}} Attack Power is 0.
+Boost own Attack Power +100.
+Recover own HP by +100.
+KO'd Digimon revives with 100 HP. Battle is still lost.
+Draw 2 Cards from Online Deck.
+Change own Specialty to Nature.
+Changes own Specialty to Rare.
+Changes own Specialty to Fire.
+Change own Specialty to Darkness.
+Change own Specialty to Ice.
+Own attack becomes {{button|c}}.
+Own attack becomes {{button|t}}.
+Own attack becomes {{button|x}}.
+Own Attack Power is tripled.
+Recover own HP by +1000.
+If opponent's HP are lower then own, opponent's HP become 10.
+Own Attack Power is boosted by the number of own HP.
+Opponent's Support and Option Effects are voided. His Attack Power is 0.
+Attack first. Own attack becomes "Eat-up HP." Boost Attack Power +200.
+Move top 10 Cards from Offline Pile to Online Deck, then shuffle.
+Opponent discards his Hand and all Cards in his DP Slot.
+Can digivolve regardless of own Specialty, Level, or Digivolve Pts.
+Digivolve a Level A Digimon to C or U. (DP are needed.)
+Can digivolve regardless of own Specialty by adding DP +20.
+Can digivolve Digimon at same Level. (Need DP) (Ignore Specialty)
+Can digivolve from R to U. (DP are needed.)
+Downgrade a Level A Digimon to Level R.
+Can disregard DP in digivolving. (Not possible in Abnormal states)
+DownGrade own digivolution by 1 Level. HP double when successful.

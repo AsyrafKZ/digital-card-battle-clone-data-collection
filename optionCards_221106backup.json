@@ -1,0 +1,772 @@
+[
+  {
+    "name": "Golden Banana",
+    "number": "191",
+    "effect": "Own HP are halved. Counterattack. Attack second.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Golden_banana_card.png"
+  },
+  {
+    "name": "Devil's Chip",
+    "number": "192",
+    "effect": "Discard 1 Card from own Hand. Boost both players' Attack Power +600.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Devil_chip_card.png"
+  },
+  {
+    "name": "Whistle",
+    "number": "193",
+    "effect": "If own Level is below opponent's, opponent's Attack Power becomes 0.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Whistle_card.png"
+  },
+  {
+    "name": "Giga Hand",
+    "number": "194",
+    "effect": "Discard 7 Cards from Online Deck. Own Attack Power is same as own HP.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Giga_hand_card.png"
+  },
+  {
+    "name": "Metallic Banana",
+    "number": "195",
+    "effect": "Own HP are halved. Opponent's Attack Power becomes 0.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Metallic_banana_card.png"
+  },
+  {
+    "name": "Shining Mane",
+    "number": "196",
+    "effect": "If opponent's HP are more than 1000, opponent's HP are halved.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Shining_mane_card.png"
+  },
+  {
+    "name": "Mega Rec. Floppy",
+    "number": "197",
+    "effect": "Discard 7 Cards from own Online Deck. Recover own HP by +1000.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Mega_rec_floppy_card.png"
+  },
+  {
+    "name": "Mega Attack Chip",
+    "number": "198",
+    "effect": "Discard 7 Cards from own Online Deck. Boost own Attack Power +500.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Mega_atk_chip_card.png"
+  },
+  {
+    "name": "Dark Lord's Cape",
+    "number": "199",
+    "effect": "If opponent's HP is less than own, boost own Attack Power +400.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Dark_lord_cape_card.png"
+  },
+  {
+    "name": "Fake Sevens",
+    "number": "200",
+    "effect": "None",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Fake_sevens_card.png"
+  },
+  {
+    "name": "Net Worm",
+    "number": "201",
+    "effect": "If both players use same Attack, discard all Cards in foe's Hand.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Net_worm_card.png"
+  },
+  {
+    "name": "Missile Pod",
+    "number": "202",
+    "effect": "Discard all Cards in own Hand. Own Attack Power is doubled.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Missile_pod_card.png"
+  },
+  {
+    "name": "Shogun's Order",
+    "number": "203",
+    "effect": "Both players' Attack Power becomes 0.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/297_shoguns_order_ddcb.png"
+  },
+  {
+    "name": "Beetle Diamond",
+    "number": "204",
+    "effect": "Attack first. Boost own Attack Power +100.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Beetle_diamond_card.png"
+  },
+  {
+    "name": "Dark Bone",
+    "number": "205",
+    "effect": "Own attack becomes \"Eat-up HP.\"",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Dark_bone_card.png"
+  },
+  {
+    "name": "Red Digivice",
+    "number": "206",
+    "effect": "If own Specialty is Fire, boost own Attack Power +100, recover HP +200.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Red_digivice_card.png"
+  },
+  {
+    "name": "Blue Digivice",
+    "number": "207",
+    "effect": "If own Specialty is Ice, boost own Attack Power +100, recover HP +200.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Blue_digivice_card.png"
+  },
+  {
+    "name": "Green Digivice",
+    "number": "208",
+    "effect": "If own Specialty is Nature, boost own Attack Power +100, recover HP +200.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Green_digivice_card.png"
+  },
+  {
+    "name": "Black Digivice",
+    "number": "209",
+    "effect": "If own Specialty is Darkness, boost own Attack Power +100, recover HP +200.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Black_digivice_card.png"
+  },
+  {
+    "name": "Yellow Digivice",
+    "number": "210",
+    "effect": "If own Specialty is Rare, boost own Attack Power +100, recover HP +200.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Yellow_digivice_card.png"
+  },
+  {
+    "name": "Pink Digivice",
+    "number": "211",
+    "effect": "If Specialties are same, boost own Attack Power +200, recover HP +400.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Pink_digivice_card.png"
+  },
+  {
+    "name": "Another Dimension",
+    "number": "212",
+    "effect": "Discard 7 Cards from both players' Online Decks.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Another_dimension_card.png"
+  },
+  {
+    "name": "UnInstall",
+    "number": "213",
+    "effect": "If both Attacks are same, discard 7 Cards from foe's Online Deck.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Uninstall_card.png"
+  },
+  {
+    "name": "Evil Program",
+    "number": "214",
+    "effect": "Discard 1 Card in own DP Slot. Discard all foe's Cards in DP Slot.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Evil_program_card.png"
+  },
+  {
+    "name": "Coliseum",
+    "number": "215",
+    "effect": "Both players' attacks become {{button|c}}. Boost own {{button|c}} Attack Power +100.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Coliseum_card.png"
+  },
+  {
+    "name": "Fire Altar",
+    "number": "216",
+    "effect": "Changes opponent's Specialty to Fire. Draw 1 Card from own Online Deck.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Fire_altar_card.png"
+  },
+  {
+    "name": "Ice Altar",
+    "number": "217",
+    "effect": "Changes opponent's Specialty to Ice. Draw 1 Card from own Online Deck.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Ice_altar_card.png"
+  },
+  {
+    "name": "Nature Altar",
+    "number": "218",
+    "effect": "Changes opponent's Specialty to Nature. Draw 1 Card from own Online Deck.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Nature_altar_card.png"
+  },
+  {
+    "name": "Darkness Altar",
+    "number": "219",
+    "effect": "Changes opponent's Specialty to Darkness. Draw 1 Card from own Online Deck.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Dark_altar_cafrd.png"
+  },
+  {
+    "name": "Rare Altar",
+    "number": "220",
+    "effect": "Changes opponent's Specialty to Rare. Draw 1 Card from own Online Deck.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Rare_altar_card.png"
+  },
+  {
+    "name": "Sup. Rec. Floppy",
+    "number": "221",
+    "effect": "If own HP are less than foe's HP, recovcer own HP by +700.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Large_recovery_floppy_card.png"
+  },
+  {
+    "name": "Mega Def. Disk {{button|c}}",
+    "number": "222",
+    "effect": "Opponent's {{button|c}} Attack Power goes to 0. Recover own HP by +100.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Mega_circle_defense.png"
+  },
+  {
+    "name": "Mega Def. Disk {{button|t}}",
+    "number": "223",
+    "effect": "Opponent's {{button|t}} Attack Power goes to 0. Recover own HP by +100.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Mega_triangle_defense.png"
+  },
+  {
+    "name": "Mega Def. Disk {{button|x}}",
+    "number": "224",
+    "effect": "Opponent's {{button|x}} Attack Power goes to 0. Recover own HP by +100.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Mega_x_defense.png"
+  },
+  {
+    "name": "Heap of Junk",
+    "number": "225",
+    "effect": "Opponent discards 2 Cards from his Online Deck and 1 Card from Hand.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Heap_of_junk_card.png"
+  },
+  {
+    "name": "Beam Gun",
+    "number": "226",
+    "effect": "Own Attack Power becomes 0. Opponent's HP are halved.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Ray_gun_card.png"
+  },
+  {
+    "name": "Chain Saw",
+    "number": "227",
+    "effect": "Make own HP 10. Own Attack Power is tripled.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Chainsaw_card.png"
+  },
+  {
+    "name": "Metal Parts",
+    "number": "228",
+    "effect": "Discard own Hand. Multiply own Attack Power by number of discarded Cards.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Metal_parts_card.png"
+  },
+  {
+    "name": "Metal Armor",
+    "number": "229",
+    "effect": "Discard own DP Slot Cards. Multiply own Attack Power by number of discards.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Metal_armor_card.png"
+  },
+  {
+    "name": "Mega Hand",
+    "number": "230",
+    "effect": "Own Attack Power matches own HP, then own HP are halved.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Mega_hand_card.png"
+  },
+  {
+    "name": "Level Balancer",
+    "number": "231",
+    "effect": "If own Level is R, boost own Attack Power +400.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Level_balancer_card.png"
+  },
+  {
+    "name": "Level Manager",
+    "number": "232",
+    "effect": "If own Level is C, boost own Attack Power +400.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Level_manager_card.png"
+  },
+  {
+    "name": "Level Booster",
+    "number": "233",
+    "effect": "If own Level is U, boost own Attack Power +400.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Level_booster_card.png"
+  },
+  {
+    "name": "Armor Clash",
+    "number": "234",
+    "effect": "If opponent is Level A, his Atk Pwr becomes 0 and own Atk Pwr is doubled.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Armor_clash_card.png"
+  },
+  {
+    "name": "Silver Ball",
+    "number": "235",
+    "effect": "If opponent is Level U, his Atk Pwr becomes 0 and own Atk Pwr is doubled.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Silver_ball_card.png"
+  },
+  {
+    "name": "Coral Charm",
+    "number": "236",
+    "effect": "If foe's Specialty is Fire or Ice, his Attack Power goes to 0.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Coral_charm_card.png"
+  },
+  {
+    "name": "Patch of Love",
+    "number": "237",
+    "effect": "If foe's Specialty is Nature or Darkness, his Attack Power goes to 0.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Patch_of_love_card.png"
+  },
+  {
+    "name": "Mystery Egg",
+    "number": "238",
+    "effect": "Changes both players' Specialties to Rare.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Mystery_egg_card.png"
+  },
+  {
+    "name": "Miracle Ruby",
+    "number": "239",
+    "effect": "KO'd Digimon revives with 1000. Battle is still lost.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Miracle_ruby_card.png"
+  },
+  {
+    "name": "Cyber Parts",
+    "number": "240",
+    "effect": "If both Attacks are same, own Attack Power is tripled.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Cyber_parts_card.png"
+  },
+  {
+    "name": "Liquid Crystal",
+    "number": "241",
+    "effect": "If both players use same attack, opponent's Attack Power becomes 0.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Liquid_crystal_card.png"
+  },
+  {
+    "name": "Deluxe Mushroom",
+    "number": "242",
+    "effect": "If both players use same Attack, recover own HP +700.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/300_deluxe_mushroom_ddcb.png"
+  },
+  {
+    "name": "Lucky Mushroom",
+    "number": "243",
+    "effect": "If both Attacks are different, recover own HP by +500.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Lucky_mushroom_card.png"
+  },
+  {
+    "name": "Premium Steak",
+    "number": "244",
+    "effect": "Recover own HP by +500. Recover foe's HP by +200.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Premium_steak_card.png"
+  },
+  {
+    "name": "Short Lance",
+    "number": "245",
+    "effect": "If both attacks are different, own Attack Power is doubled.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Short_lance_card.png"
+  },
+  {
+    "name": "Med. Rec. Floppy",
+    "number": "246",
+    "effect": "Own Attack Power is halved. Recover own HP by +500.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Medium_recovery_floppy_card.png"
+  },
+  {
+    "name": "Digimon Analyzer",
+    "number": "247",
+    "effect": "Move top 3 Cards from Offline Pile to Online Deck and shuffle.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Digimon_analyzer_card.png"
+  },
+  {
+    "name": "Training Manual",
+    "number": "248",
+    "effect": "Draw until there are 4 Cards in own Hand. Recover own HP by +100.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Training_manual_card.png"
+  },
+  {
+    "name": "Circle Hitter",
+    "number": "249",
+    "effect": "If opponent uses {{button|c}}, attack first and boost own Attack Power +500.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Circle_hitter_card.png"
+  },
+  {
+    "name": "Triangle Hitter",
+    "number": "250",
+    "effect": "If opponent uses {{button|t}}, attack first and boost own Attack Power +500.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Triangle_hitter_card.png"
+  },
+  {
+    "name": "Cross Hitter",
+    "number": "251",
+    "effect": "If opponent uses {{button|x}}, attack first and boost own Attack Power +500.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Cross_hitter_card.png"
+  },
+  {
+    "name": "Suka's Curse",
+    "number": "252",
+    "effect": "Opponent discards 2 Cards at random from his Hand.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Suka_curse_card.png"
+  },
+  {
+    "name": "Cherrymon's Mist",
+    "number": "253",
+    "effect": "Opponent's Support and Option Effects are voided.",
+    "speed": "3",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Cherrymon_mist_card.png"
+  },
+  {
+    "name": "Hacking",
+    "number": "254",
+    "effect": "If own Level is lower, switch HP with opponent.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Hacking_card.png"
+  },
+  {
+    "name": "Digimon Grave",
+    "number": "255",
+    "effect": "Opponent discards 4 top Cards from Online Deck.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Digimon_grave_card.png"
+  },
+  {
+    "name": "Data Copy",
+    "number": "256",
+    "effect": "Own Attack Power, HP, and Specialty become same as the opponent's.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Data_copy_card.png"
+  },
+  {
+    "name": "Partner Finder",
+    "number": "257",
+    "effect": "Pick Partner Card from own Online Deck at random and put in own Hand.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Partner_finder_card.png"
+  },
+  {
+    "name": "Fire Spot",
+    "number": "258",
+    "effect": "Change own Specialty to Fire. Boost own Attack Power +200.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Fire_spot_card.png"
+  },
+  {
+    "name": "Ice Crystal",
+    "number": "259",
+    "effect": "Change own Specialty to Ice. Recover own HP by +200.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Ice_crystal_card.png"
+  },
+  {
+    "name": "Earth Charm",
+    "number": "260",
+    "effect": "Change own Specialty to Nature. Attack first.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Earth_charm_card.png"
+  },
+  {
+    "name": "Black Gear",
+    "number": "261",
+    "effect": "Change own Specialty to Darkness. Both players' HP are halved.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Black_gear_card.png"
+  },
+  {
+    "name": "Stuffed Animal",
+    "number": "262",
+    "effect": "Change own Specialty to Rare. Opponent discards 1 Card at random.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Stuffed_animal_card.png"
+  },
+  {
+    "name": "Disrupt Ray",
+    "number": "263",
+    "effect": "Opponent's attack changes from {{button|c}} to {{button|t}}, {{button|t}} to {{button|x}}, or {{button|x}} to {{button|c}}.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Disrupt_ray_card.png"
+  },
+  {
+    "name": "Attack Chip",
+    "number": "264",
+    "effect": "Boost own Attack Power +300.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Attack_chip_card.png"
+  },
+  {
+    "name": "High Speed Disk",
+    "number": "265",
+    "effect": "Randomly discard 1 Card from own Hand. Opponent's Attack Power is 0.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/High_speed_disk_card.png"
+  },
+  {
+    "name": "Recovery Floppy",
+    "number": "266",
+    "effect": "Recover own HP by +300.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Recovery_floppy_card.png"
+  },
+  {
+    "name": "Attack Disk {{button|c}}",
+    "number": "267",
+    "effect": "Own {{button|c}} Attack Power is doubled.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Attack_disk_circle_card.png"
+  },
+  {
+    "name": "Attack Disk {{button|t}}",
+    "number": "268",
+    "effect": "Own {{button|t}} Attack Power is doubled.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Attack_disk_triangle_card.png"
+  },
+  {
+    "name": "Attack Disk {{button|x}}",
+    "number": "269",
+    "effect": "Own {{button|x}} Attack Power is doubled.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Attack_disk_cross_card.png"
+  },
+  {
+    "name": "Defense Disk {{button|c}}",
+    "number": "270",
+    "effect": "Opponent's {{button|c}} Attack Power is 0.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Defense_disk_circle_card.png"
+  },
+  {
+    "name": "Defense Disk {{button|t}}",
+    "number": "271",
+    "effect": "Opponent's {{button|t}} Attack Power is 0.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Defense_disk_triangle_card.png"
+  },
+  {
+    "name": "Defense Disk {{button|x}}",
+    "number": "272",
+    "effect": "Opponent's {{button|x}} Attack Power is 0.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Defense_disk_cross_card.png"
+  },
+  {
+    "name": "Digi-Garnet",
+    "number": "273",
+    "effect": "Boost own Attack Power +100.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Digi_garnet_card.png"
+  },
+  {
+    "name": "Digi-Amethyst",
+    "number": "274",
+    "effect": "Recover own HP by +100.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Digi_amethyst_card.png"
+  },
+  {
+    "name": "Digi-Aquamarine",
+    "number": "275",
+    "effect": "KO'd Digimon revives with 100 HP. Battle is still lost.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Digi_aquamarine_card.png"
+  },
+  {
+    "name": "Digi-Diamond",
+    "number": "276",
+    "effect": "Draw 2 Cards from Online Deck.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Digi_diamond_card.png"
+  },
+  {
+    "name": "Digi-Emerald",
+    "number": "277",
+    "effect": "Change own Specialty to Nature.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Digi_emerald_card.png"
+  },
+  {
+    "name": "Digi-Pearl",
+    "number": "278",
+    "effect": "Changes own Specialty to Rare.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Digi_pearl_card.png"
+  },
+  {
+    "name": "Digi-Ruby",
+    "number": "279",
+    "effect": "Changes own Specialty to Fire.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Digi_ruby_card.png"
+  },
+  {
+    "name": "Digi-Sardnyx",
+    "number": "280",
+    "effect": "Change own Specialty to Darkness.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Digi_sardnyx_card.png"
+  },
+  {
+    "name": "Digi-Sapphire",
+    "number": "281",
+    "effect": "Change own Specialty to Ice.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Digi_sapphire_card.png"
+  },
+  {
+    "name": "Digi-Opal",
+    "number": "282",
+    "effect": "Own attack becomes {{button|c}}.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Digi_opal_card.png"
+  },
+  {
+    "name": "Digi-Topaz",
+    "number": "283",
+    "effect": "Own attack becomes {{button|t}}.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Digi_topaz_card.png"
+  },
+  {
+    "name": "Digi-Turquoise",
+    "number": "284",
+    "effect": "Own attack becomes {{button|x}}.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Digi_turquoise_card.png"
+  },
+  {
+    "name": "Wild Sevens",
+    "number": "285",
+    "effect": "Own Attack Power is tripled.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Wild_sevens_card.png"
+  },
+  {
+    "name": "Holy Sevens",
+    "number": "286",
+    "effect": "Recover own HP by +1000.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Holy_sevens_card.png"
+  },
+  {
+    "name": "Dark Sevens",
+    "number": "287",
+    "effect": "If opponent's HP are lower then own, opponent's HP become 10.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Dark_sevens_card.png"
+  },
+  {
+    "name": "Grand Sevens",
+    "number": "288",
+    "effect": "Own Attack Power is boosted by the number of own HP.",
+    "speed": "1",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Ground_sevens_card.png"
+  },
+  {
+    "name": "Mystic Sevens",
+    "number": "289",
+    "effect": "Opponent's Support and Option Effects are voided. His Attack Power is 0.",
+    "speed": "3",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Misty_sevens_card.png"
+  },
+  {
+    "name": "Speed Sevens",
+    "number": "290",
+    "effect": "Attack first. Own attack becomes \"Eat-up HP.\" Boost Attack Power +200.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Speed_sevens_card.png"
+  },
+  {
+    "name": "Reverse Sevens",
+    "number": "291",
+    "effect": "Move top 10 Cards from Offline Pile to Online Deck, then shuffle.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Reverse_sevens_card.png"
+  },
+  {
+    "name": "Rosemon's Lure",
+    "number": "292",
+    "effect": "Opponent discards his Hand and all Cards in his DP Slot.",
+    "speed": "2",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Rosemon_lure_card.png"
+  },
+  {
+    "name": "Download Digivolve",
+    "number": "293",
+    "effect": "Can digivolve regardless of own Specialty, Level, or Digivolve Pts.",
+    "speed": "0",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Download_evolution_card.png"
+  },
+  {
+    "name": "ArmorCrush Digivolve",
+    "number": "294",
+    "effect": "Digivolve a Level A Digimon to C or U. (DP are needed.)",
+    "speed": "0",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Armor_crush_evolution_card.png"
+  },
+  {
+    "name": "Special Digivolve",
+    "number": "295",
+    "effect": "Can digivolve regardless of own Specialty by adding DP +20.",
+    "speed": "0",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Special_evolution_card.png"
+  },
+  {
+    "name": "Mutant Digivolve",
+    "number": "296",
+    "effect": "Can digivolve Digimon at same Level. (Need DP) (Ignore Specialty)",
+    "speed": "0",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Mutant_evolution_card.png"
+  },
+  {
+    "name": "Warp Digivolve",
+    "number": "297",
+    "effect": "Can digivolve from R to U. (DP are needed.)",
+    "speed": "0",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Warp_evolution_card.png"
+  },
+  {
+    "name": "De-Armor Digivolve",
+    "number": "298",
+    "effect": "Downgrade a Level A Digimon to Level R.",
+    "speed": "0",
+    "img_src": "https://cdn.staticneo.com/w/digimon/De_armor_evolution_card.png"
+  },
+  {
+    "name": "Speed Digivolve",
+    "number": "299",
+    "effect": "Can disregard DP in digivolving. (Not possible in Abnormal states)",
+    "speed": "0",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Speed_evolution_card.png"
+  },
+  {
+    "name": "Digi-devolve",
+    "number": "300",
+    "effect": "DownGrade own digivolution by 1 Level. HP double when successful.",
+    "speed": "0",
+    "img_src": "https://cdn.staticneo.com/w/digimon/Digi_devolve_card.png"
+  }
+]
